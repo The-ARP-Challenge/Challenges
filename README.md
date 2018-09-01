@@ -5,7 +5,7 @@ This project was started on 2018-08-28 and the aim is to complete a challenge ev
 We hope to go through some of the solutions on Python Mondays.
 
 The current members are:
-- Me (Philip Mannering)
+- Philip Mannering
 - Alex Jones
 - David Sanchez Martin
 
