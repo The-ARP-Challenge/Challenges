@@ -7,6 +7,7 @@ We hope to go through some of the solutions on Python Mondays.
 The current members are:
 - Philip Mannering
 - Alex Jones
+- Rachel Phang
 - David Sanchez Martin
 
 The top 10 solved are:
