@@ -11,6 +11,6 @@ The current members are:
 
 The top 10 solved are:
 
-... add table here ...
+[add table here]
 
 Happy Coding :)
