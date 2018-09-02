@@ -9,4 +9,7 @@ The current members are:
 - Alex Jones
 - David Sanchez Martin
 
+The top 10 solved are:
+... add table here ...
+
 Happy Coding :)
