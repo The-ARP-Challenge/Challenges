@@ -10,7 +10,7 @@ The current members are:
 - Rachel Phang
 - David Sanchez Martin
 
-The top 10 solved are:
+The top 10 solvers are:
 
 [add table here]
 
