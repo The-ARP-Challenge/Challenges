@@ -1,0 +1,2679 @@
+Customer ID,Store Number,Customer Segment,Responder,Postal Area
+2,100,Corporate,No,2086
+3,100,Corporate,No,2051
+5,100,Home Office,No,2077
+6,106,Home Office,No,2004
+8,101,Home Office,No,2010
+9,105,Home Office,No,2078
+15,104,Small Business,Yes,2061
+20,100,Small Business,No,2040
+26,104,Corporate,No,2015
+10,100,Home Office,No,2012
+11,106,Home Office,No,2062
+17,107,Small Business,No,2010
+23,107,Corporate,Yes,2095
+28,102,Corporate,No,2068
+31,100,Corporate,No,2010
+32,109,Corporate,No,2072
+33,109,Corporate,No,2037
+37,106,Small Business,No,2012
+40,103,Corporate,No,2006
+42,106,Consumer,No,2034
+43,104,Consumer,No,2089
+49,101,Corporate,No,2043
+50,107,Corporate,No,2028
+52,103,Corporate,No,2089
+53,100,Corporate,No,2002
+55,101,Home Office,No,2095
+56,103,Consumer,Yes,2031
+57,100,Consumer,No,2040
+59,104,Small Business,No,2040
+60,105,Small Business,No,2030
+61,105,Small Business,No,2074
+62,108,Corporate,No,2074
+7,105,Home Office,No,2100
+12,108,Home Office,No,2079
+63,103,Corporate,No,2071
+64,106,Small Business,No,2015
+65,109,Corporate,No,2021
+66,109,Corporate,No,2041
+18,104,Small Business,No,2064
+24,105,Corporate,No,2077
+69,104,Corporate,Yes,2022
+67,105,Corporate,No,2012
+70,108,Corporate,No,2050
+72,107,Small Business,No,2086
+73,104,Small Business,No,2005
+76,107,Small Business,No,2080
+78,108,Small Business,No,2019
+80,106,Small Business,No,2003
+83,106,Corporate,No,2034
+84,105,Consumer,No,2035
+87,100,Corporate,No,2001
+35,103,Small Business,Yes,2095
+45,103,Home Office,No,2011
+88,105,Corporate,No,2012
+16,103,Small Business,No,2015
+90,100,Corporate,No,2082
+46,101,Home Office,No,2096
+48,104,Corporate,No,2098
+93,107,Corporate,No,2049
+95,106,Corporate,No,2000
+99,105,Consumer,No,2020
+91,104,Home Office,No,2054
+92,105,Home Office,No,2024
+96,105,Home Office,No,2077
+100,100,Consumer,No,2071
+101,100,Consumer,No,2095
+98,109,Home Office,No,2080
+104,100,Consumer,No,2013
+102,103,Consumer,Yes,2025
+21,100,Small Business,Yes,2066
+27,102,Corporate,No,2040
+105,109,Consumer,No,2022
+106,107,Consumer,No,2070
+103,103,Consumer,No,2013
+109,100,Consumer,No,2016
+107,100,Consumer,No,2030
+110,100,Consumer,No,2006
+108,106,Consumer,No,2034
+111,106,Consumer,Yes,2000
+36,105,Small Business,No,2074
+114,105,Home Office,No,2026
+115,104,Home Office,Yes,2069
+97,100,Home Office,No,2080
+112,101,Consumer,No,2043
+117,105,Home Office,Yes,2089
+120,102,Corporate,No,2012
+116,101,Home Office,No,2070
+113,104,Consumer,No,2043
+126,105,Consumer,No,2051
+68,100,Corporate,Yes,2062
+125,106,Consumer,No,2000
+127,102,Consumer,No,2094
+74,103,Small Business,No,2035
+132,108,Corporate,Yes,2002
+119,107,Corporate,No,2019
+14,105,Small Business,No,2009
+75,104,Small Business,No,2096
+122,100,Home Office,No,2008
+19,102,Small Business,No,2065
+123,105,Home Office,No,2077
+77,102,Small Business,No,2028
+129,101,Small Business,No,2000
+139,106,Small Business,No,2018
+134,100,Corporate,Yes,2006
+130,101,Small Business,No,2004
+143,106,Small Business,No,2058
+25,105,Corporate,No,2066
+137,104,Small Business,No,2054
+145,106,Small Business,No,2054
+148,100,Small Business,No,2019
+151,108,Home Office,No,2019
+141,105,Corporate,No,2009
+153,100,Consumer,No,2039
+133,100,Home Office,Yes,2012
+138,106,Small Business,No,2011
+147,107,Small Business,No,2030
+152,105,Consumer,No,2031
+157,103,Corporate,No,2022
+29,105,Corporate,No,2034
+156,100,Corporate,No,2083
+142,105,Small Business,No,2036
+154,100,Small Business,Yes,2097
+163,105,Home Office,No,2013
+162,101,Home Office,No,2034
+144,100,Small Business,No,2017
+159,105,Consumer,No,2076
+164,106,Home Office,Yes,2095
+146,104,Small Business,No,2038
+171,100,Corporate,No,2061
+166,105,Consumer,No,2067
+174,104,Corporate,Yes,2098
+149,104,Small Business,No,2031
+167,101,Consumer,No,2087
+180,100,Consumer,Yes,2032
+169,105,Corporate,Yes,2087
+172,105,Corporate,No,2081
+181,109,Small Business,No,2052
+175,107,Corporate,No,2058
+182,103,Small Business,No,2029
+183,108,Corporate,No,2010
+185,100,Small Business,No,2076
+186,106,Small Business,No,2071
+187,108,Small Business,No,2083
+161,107,Small Business,No,2060
+191,100,Corporate,No,2015
+193,104,Corporate,No,2078
+178,106,Small Business,No,2072
+202,101,Corporate,No,2027
+196,100,Small Business,No,2063
+177,105,Small Business,No,2094
+204,105,Corporate,No,2032
+188,106,Corporate,No,2006
+190,103,Corporate,No,2026
+205,101,Corporate,No,2011
+211,106,Consumer,No,2012
+198,108,Small Business,Yes,2010
+210,105,Home Office,No,2039
+214,104,Home Office,Yes,2067
+218,109,Consumer,No,2057
+184,102,Small Business,No,2000
+195,108,Corporate,No,2022
+197,100,Small Business,No,2012
+220,102,Home Office,No,2072
+215,108,Consumer,No,2044
+217,108,Home Office,No,2023
+221,103,Home Office,No,2019
+225,106,Small Business,No,2027
+233,107,Small Business,No,2031
+200,105,Home Office,No,2098
+228,105,Small Business,No,2039
+226,102,Small Business,No,2006
+234,104,Small Business,No,2040
+238,109,Corporate,No,2076
+230,101,Home Office,No,2072
+208,100,Consumer,Yes,2022
+232,106,Small Business,No,2090
+242,104,Small Business,No,2000
+236,108,Corporate,Yes,2049
+224,104,Small Business,No,2064
+240,104,Small Business,No,2061
+241,100,Small Business,No,2080
+194,105,Corporate,No,2079
+237,100,Consumer,No,2022
+247,102,Corporate,No,2040
+212,102,Consumer,No,2068
+248,100,Corporate,No,2085
+244,100,Corporate,No,2057
+227,106,Small Business,No,2024
+216,105,Consumer,No,2039
+252,109,Corporate,No,2041
+245,100,Corporate,No,2059
+251,103,Corporate,No,2086
+250,107,Corporate,No,2009
+260,107,Corporate,No,2075
+254,107,Home Office,No,2057
+262,103,Home Office,No,2094
+255,104,Home Office,No,2062
+223,106,Small Business,No,2012
+258,101,Consumer,No,2027
+259,105,Consumer,Yes,2007
+256,105,Home Office,No,2039
+266,105,Corporate,No,2008
+271,107,Small Business,No,2000
+267,103,Corporate,No,2097
+270,105,Small Business,No,2081
+275,102,Corporate,No,2084
+279,106,Corporate,No,2084
+276,107,Corporate,No,2084
+278,109,Corporate,No,2038
+269,105,Home Office,No,2027
+277,100,Corporate,No,2015
+283,104,Corporate,No,2071
+280,109,Corporate,No,2081
+290,100,Small Business,No,2033
+295,108,Corporate,No,2080
+274,101,Corporate,No,2062
+281,109,Corporate,No,2085
+287,106,Small Business,No,2059
+284,106,Corporate,No,2030
+291,106,Small Business,No,2053
+286,107,Small Business,No,2079
+298,107,Corporate,No,2013
+288,104,Small Business,No,2005
+297,104,Corporate,No,2009
+292,103,Small Business,No,2054
+296,104,Corporate,No,2047
+300,107,Corporate,No,2065
+304,106,Small Business,No,2066
+294,104,Corporate,No,2098
+301,101,Corporate,No,2041
+299,104,Corporate,No,2051
+305,101,Consumer,No,2062
+307,105,Consumer,No,2006
+306,101,Small Business,No,2094
+264,103,Home Office,No,2026
+303,106,Consumer,No,2051
+313,103,Corporate,Yes,2098
+310,105,Consumer,No,2047
+314,102,Corporate,Yes,2041
+315,100,Corporate,No,2026
+317,109,Corporate,No,2071
+318,103,Corporate,No,2100
+319,103,Corporate,No,2078
+326,108,Consumer,No,2005
+321,105,Consumer,No,2000
+322,106,Home Office,No,2043
+333,108,Home Office,No,2031
+308,101,Small Business,Yes,2098
+327,107,Consumer,No,2100
+331,105,Home Office,No,2062
+335,104,Corporate,No,2057
+340,107,Corporate,No,2030
+311,109,Consumer,No,2029
+332,103,Home Office,No,2038
+336,101,Corporate,Yes,2090
+341,106,Corporate,No,2045
+344,104,Corporate,No,2035
+342,108,Corporate,Yes,2030
+337,101,Corporate,No,2058
+324,104,Corporate,Yes,2027
+346,101,Corporate,No,2038
+268,102,Home Office,No,2056
+348,104,Corporate,No,2010
+349,104,Home Office,Yes,2012
+329,103,Home Office,No,2052
+345,108,Corporate,No,2072
+350,105,Home Office,No,2011
+339,100,Corporate,Yes,2036
+343,105,Corporate,No,2090
+351,105,Home Office,Yes,2011
+354,100,Home Office,No,2036
+360,108,Small Business,No,2010
+347,104,Corporate,Yes,2091
+365,104,Small Business,No,2095
+355,109,Home Office,No,2096
+363,105,Small Business,No,2002
+353,100,Home Office,Yes,2063
+357,104,Corporate,Yes,2045
+358,108,Corporate,No,2079
+369,104,Corporate,Yes,2037
+364,107,Small Business,No,2091
+372,100,Corporate,No,2077
+366,109,Small Business,No,2044
+361,101,Small Business,Yes,2014
+370,103,Corporate,No,2034
+371,101,Corporate,No,2068
+377,106,Consumer,No,2027
+378,104,Consumer,No,2078
+367,106,Small Business,No,2087
+373,108,Small Business,Yes,2059
+380,105,Corporate,No,2045
+374,103,Small Business,No,2003
+385,103,Corporate,No,2040
+272,106,Home Office,Yes,2005
+282,104,Corporate,No,2092
+381,106,Corporate,No,2024
+388,107,Corporate,Yes,2099
+391,107,Corporate,No,2078
+397,101,Corporate,Yes,2054
+382,107,Corporate,No,2049
+383,108,Corporate,No,2097
+386,104,Corporate,No,2062
+392,108,Corporate,No,2053
+393,108,Corporate,No,2007
+399,102,Corporate,No,2075
+375,106,Small Business,No,2011
+387,102,Corporate,No,2071
+403,105,Small Business,No,2092
+404,100,Small Business,No,2026
+389,106,Corporate,No,2088
+398,100,Corporate,No,2087
+408,105,Corporate,No,2024
+409,106,Corporate,No,2053
+411,103,Consumer,No,2056
+394,104,Corporate,No,2059
+405,102,Small Business,No,2004
+412,101,Consumer,No,2030
+413,105,Consumer,Yes,2022
+395,103,Corporate,Yes,2092
+415,103,Consumer,Yes,2034
+406,106,Small Business,No,2096
+418,107,Small Business,Yes,2074
+419,103,Small Business,No,2072
+420,104,Small Business,No,2087
+330,107,Home Office,No,2042
+414,100,Consumer,No,2071
+417,105,Small Business,No,2095
+427,107,Corporate,No,2056
+426,105,Corporate,No,2002
+433,108,Small Business,No,2011
+421,109,Small Business,No,2095
+362,106,Small Business,No,2054
+401,107,Small Business,No,2061
+424,100,Small Business,No,2091
+428,106,Corporate,Yes,2057
+431,101,Small Business,No,2009
+432,106,Small Business,No,2070
+434,100,Small Business,No,2058
+402,109,Small Business,No,2077
+437,100,Small Business,No,2018
+445,101,Small Business,No,2028
+430,108,Small Business,No,2079
+438,103,Corporate,No,2004
+448,100,Corporate,No,2024
+439,107,Corporate,No,2047
+450,106,Home Office,No,2042
+422,101,Small Business,No,2020
+441,107,Small Business,No,2097
+435,106,Small Business,No,2056
+447,101,Corporate,No,2015
+457,108,Corporate,No,2065
+440,102,Corporate,No,2007
+423,107,Small Business,No,2044
+436,104,Small Business,No,2008
+458,105,Home Office,No,2075
+451,100,Home Office,No,2081
+444,109,Small Business,No,2096
+459,100,Home Office,No,2057
+461,104,Corporate,No,2076
+467,102,Small Business,No,2089
+452,102,Home Office,No,2072
+460,100,Home Office,No,2062
+464,108,Small Business,No,2066
+443,100,Small Business,No,2027
+463,104,Small Business,No,2078
+469,104,Small Business,No,2004
+472,103,Consumer,No,2058
+453,104,Corporate,No,2076
+470,100,Small Business,No,2070
+471,105,Consumer,No,2090
+454,102,Home Office,No,2029
+475,108,Small Business,No,2054
+465,102,Small Business,No,2091
+468,108,Small Business,No,2073
+474,104,Small Business,No,2017
+476,105,Small Business,No,2029
+477,107,Small Business,No,2008
+478,105,Small Business,Yes,2064
+483,105,Corporate,Yes,2027
+485,104,Corporate,No,2084
+482,108,Corporate,No,2046
+489,103,Corporate,No,2063
+491,103,Consumer,Yes,2075
+479,101,Small Business,Yes,2077
+487,101,Corporate,No,2057
+488,106,Corporate,No,2060
+455,106,Corporate,No,2069
+492,100,Consumer,No,2002
+496,105,Small Business,No,2096
+494,109,Consumer,Yes,2080
+456,105,Corporate,No,2069
+497,104,Small Business,Yes,2088
+480,101,Home Office,No,2069
+486,102,Corporate,No,2027
+493,107,Consumer,No,2062
+506,104,Corporate,No,2063
+500,106,Corporate,No,2087
+505,107,Corporate,No,2051
+510,106,Corporate,No,2006
+501,101,Corporate,No,2032
+507,102,Corporate,No,2027
+503,107,Small Business,No,2072
+508,100,Corporate,No,2092
+513,108,Consumer,No,2075
+522,109,Small Business,Yes,2031
+466,104,Small Business,No,2030
+519,106,Home Office,No,2015
+514,102,Consumer,No,2091
+527,107,Home Office,No,2055
+521,109,Small Business,Yes,2023
+490,108,Corporate,No,2068
+526,106,Home Office,No,2016
+528,103,Home Office,No,2058
+512,109,Corporate,No,2095
+518,109,Home Office,No,2079
+535,106,Corporate,No,2100
+534,103,Corporate,Yes,2091
+537,100,Corporate,No,2057
+511,108,Consumer,No,2089
+516,101,Corporate,No,2017
+540,103,Small Business,No,2034
+524,109,Consumer,Yes,2055
+515,105,Consumer,No,2026
+531,100,Corporate,No,2019
+542,106,Home Office,No,2079
+551,105,Corporate,No,2046
+559,101,Home Office,No,2061
+544,103,Home Office,No,2081
+547,105,Corporate,No,2002
+530,101,Corporate,No,2013
+533,105,Corporate,No,2049
+555,108,Corporate,Yes,2013
+560,101,Small Business,No,2060
+539,103,Small Business,No,2057
+546,103,Corporate,No,2096
+550,101,Corporate,No,2073
+553,107,Home Office,Yes,2044
+558,107,Home Office,No,2053
+569,105,Consumer,No,2010
+570,105,Consumer,No,2065
+543,106,Home Office,Yes,2044
+572,104,Home Office,No,2086
+561,104,Home Office,No,2042
+566,100,Corporate,Yes,2086
+573,104,Home Office,No,2034
+568,107,Consumer,Yes,2074
+549,103,Corporate,No,2080
+556,100,Home Office,Yes,2075
+580,106,Corporate,No,2026
+562,107,Home Office,No,2013
+552,106,Corporate,Yes,2024
+578,101,Corporate,No,2082
+574,104,Corporate,No,2026
+581,102,Corporate,No,2061
+554,100,Home Office,No,2051
+576,100,Corporate,No,2052
+579,101,Corporate,No,2011
+583,103,Corporate,No,2014
+563,109,Home Office,Yes,2036
+582,105,Corporate,No,2078
+585,106,Corporate,No,2028
+586,100,Corporate,No,2004
+565,105,Corporate,Yes,2052
+587,104,Corporate,Yes,2064
+588,103,Corporate,No,2015
+584,104,Corporate,No,2038
+593,107,Small Business,Yes,2030
+591,100,Consumer,No,2100
+594,104,Consumer,No,2051
+597,107,Small Business,Yes,2050
+592,109,Small Business,Yes,2030
+596,108,Consumer,No,2065
+603,105,Home Office,No,2005
+600,100,Corporate,No,2077
+605,103,Corporate,No,2034
+608,107,Corporate,No,2007
+604,108,Corporate,Yes,2072
+609,103,Corporate,No,2089
+602,101,Small Business,No,2063
+606,103,Home Office,No,2016
+607,105,Corporate,Yes,2083
+615,104,Home Office,No,2048
+613,100,Home Office,No,2049
+614,107,Home Office,No,2095
+577,105,Corporate,No,2056
+611,106,Home Office,No,2098
+618,101,Consumer,Yes,2038
+622,104,Home Office,No,2014
+617,104,Consumer,No,2053
+621,106,Home Office,Yes,2086
+623,106,Home Office,No,2036
+626,100,Corporate,No,2016
+619,109,Consumer,No,2049
+629,105,Small Business,Yes,2069
+589,105,Corporate,No,2076
+632,100,Small Business,No,2009
+624,100,Home Office,No,2008
+627,106,Corporate,Yes,2042
+631,104,Small Business,No,2100
+633,105,Small Business,No,2053
+635,109,Corporate,Yes,2056
+636,107,Corporate,No,2005
+638,104,Consumer,No,2005
+640,108,Consumer,Yes,2042
+642,109,Corporate,Yes,2079
+646,108,Corporate,Yes,2068
+648,101,Home Office,No,2082
+649,107,Home Office,No,2060
+595,109,Small Business,No,2067
+645,108,Corporate,No,2017
+655,101,Consumer,No,2003
+639,105,Consumer,No,2082
+654,107,Consumer,No,2026
+643,109,Corporate,No,2049
+656,101,Consumer,No,2077
+658,101,Consumer,No,2062
+599,105,Corporate,No,2023
+653,100,Consumer,No,2017
+657,103,Consumer,No,2057
+664,108,Home Office,No,2030
+659,109,Consumer,No,2062
+666,103,Corporate,No,2049
+661,103,Consumer,No,2044
+665,103,Corporate,No,2026
+663,103,Home Office,No,2075
+670,107,Home Office,No,2016
+672,107,Small Business,No,2084
+673,103,Small Business,No,2008
+674,103,Small Business,No,2053
+678,103,Corporate,No,2070
+667,106,Corporate,No,2053
+676,100,Small Business,No,2048
+637,100,Consumer,Yes,2002
+675,106,Small Business,No,2090
+680,107,Corporate,No,2004
+688,106,Small Business,No,2083
+681,109,Corporate,No,2080
+691,108,Home Office,Yes,2060
+693,101,Small Business,No,2075
+683,105,Small Business,No,2046
+689,101,Small Business,No,2053
+694,108,Small Business,No,2034
+697,104,Corporate,No,2034
+685,105,Small Business,No,2059
+686,105,Small Business,No,2078
+698,109,Corporate,No,2014
+699,101,Consumer,Yes,2086
+695,105,Small Business,No,2027
+696,106,Corporate,No,2024
+704,101,Consumer,No,2098
+707,102,Consumer,No,2035
+711,100,Consumer,No,2042
+651,109,Consumer,Yes,2034
+669,101,Home Office,No,2032
+701,106,Consumer,No,2049
+702,106,Consumer,Yes,2018
+705,103,Consumer,No,2022
+708,103,Consumer,No,2064
+712,100,Consumer,No,2051
+706,100,Consumer,No,2093
+709,106,Consumer,No,2031
+679,106,Corporate,Yes,2027
+703,101,Consumer,No,2079
+710,104,Consumer,No,2036
+713,109,Consumer,No,2050
+716,100,Corporate,No,2058
+725,109,Consumer,No,2042
+726,104,Consumer,No,2060
+717,100,Corporate,No,2014
+718,103,Corporate,Yes,2088
+727,100,Consumer,No,2072
+719,104,Corporate,No,2090
+728,108,Consumer,No,2093
+732,106,Consumer,No,2006
+714,107,Consumer,No,2079
+721,104,Corporate,No,2048
+730,108,Consumer,Yes,2031
+700,100,Consumer,No,2030
+722,106,Corporate,No,2047
+734,104,Consumer,No,2050
+731,108,Consumer,No,2088
+736,101,Consumer,No,2049
+740,106,Consumer,No,2053
+749,104,Corporate,Yes,2028
+737,107,Consumer,No,2063
+750,102,Corporate,Yes,2045
+724,108,Consumer,No,2027
+741,105,Consumer,No,2080
+735,107,Consumer,No,2068
+738,100,Consumer,No,2063
+742,109,Consumer,No,2064
+757,109,Home Office,No,2016
+744,107,Corporate,No,2099
+751,101,Corporate,No,2063
+739,106,Consumer,No,2045
+745,105,Consumer,Yes,2021
+759,104,Small Business,No,2076
+756,104,Home Office,Yes,2012
+764,104,Consumer,No,2082
+771,106,Small Business,Yes,2085
+760,108,Small Business,No,2084
+768,103,Corporate,No,2084
+772,105,Small Business,No,2067
+746,107,Corporate,No,2072
+770,107,Small Business,No,2018
+775,100,Home Office,No,2062
+762,100,Small Business,Yes,2070
+765,109,Consumer,No,2091
+776,103,Home Office,No,2064
+779,107,Home Office,No,2094
+733,102,Consumer,No,2039
+777,107,Home Office,No,2023
+780,103,Home Office,No,2077
+773,106,Small Business,No,2048
+794,109,Corporate,Yes,2020
+778,108,Home Office,No,2015
+753,101,Corporate,No,2097
+786,100,Home Office,No,2087
+782,105,Small Business,No,2002
+790,104,Corporate,Yes,2090
+754,109,Corporate,No,2094
+787,104,Home Office,No,2044
+767,106,Corporate,No,2093
+783,107,Small Business,No,2019
+801,100,Consumer,No,2048
+788,105,Home Office,No,2062
+791,106,Corporate,No,2008
+796,101,Corporate,No,2021
+803,101,Small Business,No,2017
+792,104,Corporate,No,2036
+800,100,Consumer,No,2091
+810,109,Consumer,No,2071
+797,100,Corporate,No,2065
+807,105,Small Business,No,2032
+806,109,Small Business,Yes,2060
+815,108,Corporate,No,2000
+804,103,Small Business,No,2079
+811,105,Corporate,No,2042
+799,101,Consumer,Yes,2029
+805,109,Small Business,No,2067
+808,104,Small Business,No,2035
+819,107,Small Business,No,2047
+820,107,Small Business,No,2026
+826,102,Small Business,Yes,2029
+816,106,Consumer,Yes,2063
+813,101,Corporate,No,2001
+823,101,Small Business,No,2032
+834,101,Corporate,No,2061
+822,101,Small Business,No,2064
+825,106,Home Office,Yes,2041
+817,101,Consumer,No,2034
+835,105,Corporate,No,2078
+840,107,Corporate,No,2012
+829,106,Corporate,No,2024
+830,106,Corporate,No,2071
+842,101,Corporate,No,2083
+831,106,Home Office,No,2007
+836,108,Corporate,No,2037
+833,103,Corporate,No,2077
+838,105,Consumer,Yes,2035
+844,107,Corporate,No,2042
+841,105,Corporate,No,2023
+845,100,Corporate,No,2073
+846,105,Corporate,No,2100
+843,101,Corporate,No,2026
+812,108,Corporate,No,2004
+852,106,Small Business,No,2086
+814,104,Consumer,No,2005
+847,101,Corporate,No,2007
+853,103,Small Business,Yes,2034
+854,109,Corporate,No,2007
+857,105,Small Business,No,2003
+858,106,Corporate,No,2040
+859,108,Small Business,No,2082
+850,106,Corporate,No,2026
+851,100,Corporate,No,2049
+863,104,Corporate,No,2009
+848,107,Corporate,No,2032
+860,100,Small Business,No,2027
+824,106,Small Business,No,2083
+827,107,Home Office,No,2002
+871,105,Home Office,No,2058
+873,107,Small Business,No,2061
+868,108,Corporate,Yes,2085
+875,102,Small Business,No,2087
+862,106,Corporate,Yes,2048
+855,107,Corporate,No,2013
+866,102,Corporate,No,2000
+877,106,Corporate,No,2026
+880,104,Small Business,No,2085
+874,103,Small Business,No,2047
+881,105,Small Business,No,2077
+870,108,Home Office,No,2003
+883,106,Home Office,No,2039
+886,106,Home Office,Yes,2058
+888,102,Consumer,No,2068
+878,107,Corporate,No,2008
+890,100,Consumer,No,2033
+885,101,Corporate,No,2045
+893,100,Consumer,No,2005
+887,104,Corporate,No,2027
+889,105,Home Office,No,2079
+856,108,Small Business,No,2091
+865,106,Corporate,No,2042
+898,101,Small Business,No,2021
+892,108,Consumer,No,2085
+896,105,Corporate,No,2091
+897,103,Small Business,No,2068
+895,105,Corporate,No,2067
+902,106,Consumer,No,2047
+884,100,Corporate,No,2011
+899,100,Small Business,No,2059
+905,108,Consumer,No,2020
+901,105,Consumer,No,2027
+904,105,Consumer,No,2013
+913,100,Corporate,No,2045
+894,103,Corporate,Yes,2010
+914,109,Home Office,No,2016
+907,101,Home Office,No,2096
+908,103,Home Office,Yes,2059
+916,106,Corporate,No,2014
+910,100,Corporate,No,2070
+903,101,Consumer,No,2075
+918,109,Consumer,Yes,2014
+924,105,Small Business,No,2090
+929,108,Small Business,No,2005
+915,100,Home Office,Yes,2032
+919,107,Consumer,No,2021
+922,104,Small Business,Yes,2067
+911,100,Corporate,No,2026
+930,108,Small Business,No,2033
+925,108,Small Business,No,2053
+931,100,Small Business,No,2078
+927,109,Small Business,No,2030
+926,100,Small Business,No,2059
+923,103,Small Business,No,2071
+932,105,Small Business,No,2005
+934,106,Small Business,No,2038
+943,109,Home Office,Yes,2044
+928,105,Small Business,No,2056
+936,108,Corporate,No,2078
+949,106,Consumer,Yes,2096
+933,103,Small Business,No,2084
+940,109,Home Office,No,2017
+941,101,Consumer,No,2008
+950,101,Consumer,Yes,2015
+937,107,Corporate,No,2056
+939,107,Home Office,No,2091
+942,102,Home Office,No,2062
+956,100,Consumer,No,2076
+945,104,Home Office,No,2077
+947,103,Home Office,No,2097
+946,108,Home Office,No,2044
+948,105,Home Office,No,2056
+951,104,Consumer,No,2097
+954,105,Small Business,No,2095
+960,102,Home Office,No,2052
+959,107,Corporate,No,2092
+962,101,Home Office,Yes,2095
+964,105,Home Office,No,2011
+961,108,Home Office,No,2059
+967,100,Home Office,No,2005
+965,105,Consumer,No,2063
+969,107,Consumer,No,2013
+953,101,Small Business,No,2047
+966,104,Home Office,No,2058
+972,100,Corporate,No,2005
+973,106,Corporate,No,2029
+957,102,Consumer,No,2008
+977,108,Corporate,No,2072
+980,106,Corporate,No,2051
+974,101,Corporate,No,2045
+970,105,Consumer,Yes,2095
+968,107,Home Office,No,2067
+976,108,Corporate,No,2073
+984,108,Small Business,No,2092
+983,104,Corporate,No,2013
+986,101,Small Business,No,2027
+975,105,Corporate,No,2056
+988,101,Small Business,No,2015
+989,108,Corporate,No,2030
+981,109,Corporate,No,2064
+991,107,Small Business,No,2048
+997,100,Small Business,No,2011
+985,104,Small Business,No,2091
+990,105,Corporate,No,2007
+994,109,Small Business,No,2069
+1002,104,Home Office,No,2095
+993,105,Small Business,No,2058
+998,108,Small Business,No,2058
+999,101,Small Business,No,2067
+995,103,Small Business,No,2086
+1003,101,Home Office,No,2002
+1005,107,Small Business,No,2043
+1000,104,Small Business,No,2041
+1006,104,Small Business,No,2069
+1010,105,Home Office,No,2066
+1008,107,Home Office,No,2020
+1017,109,Home Office,No,2061
+1011,104,Home Office,No,2012
+1015,105,Home Office,No,2087
+1009,104,Corporate,Yes,2077
+1016,104,Home Office,No,2018
+1020,105,Small Business,No,2048
+1025,108,Small Business,Yes,2072
+1028,105,Small Business,No,2051
+1012,106,Home Office,No,2083
+1022,104,Small Business,No,2100
+1027,103,Small Business,No,2068
+1032,101,Small Business,No,2056
+1035,103,Home Office,No,2048
+1018,100,Home Office,No,2009
+1023,101,Small Business,No,2092
+1026,106,Small Business,No,2045
+1030,100,Small Business,No,2062
+978,100,Corporate,No,2002
+979,108,Corporate,No,2067
+1031,103,Small Business,No,2030
+1036,105,Home Office,No,2010
+1043,100,Small Business,No,2058
+1047,105,Home Office,Yes,2086
+1048,106,Home Office,No,2042
+1044,106,Home Office,Yes,2060
+987,106,Small Business,No,2045
+1039,101,Corporate,No,2072
+1041,104,Small Business,No,2038
+1014,107,Home Office,No,2081
+1021,104,Small Business,No,2026
+1045,108,Home Office,No,2075
+1049,104,Home Office,No,2045
+1054,109,Corporate,Yes,2054
+1046,104,Home Office,No,2098
+1050,108,Home Office,No,2059
+1033,107,Corporate,Yes,2042
+1057,101,Small Business,No,2050
+1058,105,Small Business,Yes,2032
+1056,106,Small Business,No,2096
+1042,104,Small Business,No,2068
+1060,105,Small Business,Yes,2072
+1059,100,Small Business,No,2042
+996,106,Small Business,No,2017
+1065,101,Corporate,No,2046
+1069,101,Home Office,No,2011
+1066,107,Corporate,No,2036
+1068,100,Home Office,No,2066
+1052,104,Corporate,No,2022
+1062,109,Small Business,No,2016
+1072,104,Corporate,No,2056
+1074,107,Home Office,Yes,2075
+1053,103,Corporate,Yes,2094
+1061,108,Small Business,No,2040
+1063,106,Small Business,No,2042
+1071,104,Corporate,No,2012
+1077,105,Corporate,No,2047
+1079,106,Corporate,No,2058
+1075,100,Home Office,No,2061
+1082,102,Corporate,No,2014
+1083,107,Corporate,No,2062
+1080,103,Corporate,No,2064
+1085,107,Home Office,No,2075
+1092,100,Corporate,Yes,2096
+1081,105,Corporate,No,2088
+1090,106,Corporate,No,2091
+1093,108,Corporate,No,2031
+1088,103,Corporate,Yes,2065
+1098,106,Home Office,No,2003
+1101,109,Small Business,No,2059
+1095,106,Home Office,No,2019
+1099,106,Home Office,No,2007
+1086,101,Home Office,No,2071
+1102,100,Small Business,No,2090
+1106,103,Small Business,Yes,2098
+1089,109,Corporate,No,2037
+1104,106,Home Office,Yes,2012
+1105,100,Home Office,No,2042
+1108,103,Small Business,No,2071
+1113,105,Corporate,Yes,2098
+1115,105,Consumer,No,2023
+1103,103,Home Office,No,2076
+1110,106,Small Business,No,2059
+1117,106,Home Office,No,2047
+1112,104,Corporate,Yes,2039
+1091,106,Small Business,Yes,2076
+1116,107,Home Office,Yes,2079
+1109,103,Consumer,No,2036
+1120,104,Home Office,No,2018
+1118,102,Home Office,Yes,2096
+1121,106,Consumer,Yes,2003
+1124,107,Small Business,No,2006
+1131,101,Home Office,No,2027
+1126,102,Consumer,No,2044
+1128,108,Consumer,Yes,2046
+1127,105,Consumer,Yes,2046
+1096,104,Home Office,No,2002
+1133,101,Home Office,No,2080
+1132,101,Corporate,No,2002
+1097,109,Home Office,No,2091
+1129,107,Home Office,Yes,2039
+1139,108,Home Office,No,2042
+1119,104,Home Office,Yes,2041
+1136,104,Consumer,Yes,2037
+1140,108,Home Office,Yes,2074
+1145,104,Consumer,No,2005
+1142,101,Home Office,No,2061
+1141,100,Small Business,No,2033
+1123,100,Small Business,No,2091
+1107,105,Small Business,No,2032
+1135,106,Consumer,Yes,2042
+1148,109,Corporate,No,2047
+1153,109,Corporate,No,2077
+1146,100,Consumer,No,2021
+1158,106,Consumer,No,2061
+1130,108,Home Office,No,2009
+1143,103,Home Office,No,2029
+1151,100,Corporate,Yes,2086
+1155,108,Consumer,No,2019
+1162,105,Corporate,No,2093
+1138,105,Home Office,No,2057
+1150,103,Corporate,No,2008
+1159,106,Consumer,No,2009
+1167,101,Corporate,No,2050
+1156,105,Consumer,No,2062
+1149,105,Corporate,No,2027
+1157,108,Consumer,Yes,2052
+1170,108,Consumer,No,2056
+1168,105,Corporate,No,2065
+1163,101,Corporate,No,2017
+1161,108,Corporate,No,2100
+1174,107,Home Office,No,2048
+1173,104,Home Office,No,2043
+1171,100,Consumer,No,2080
+1175,100,Home Office,No,2045
+1172,107,Consumer,No,2004
+1180,105,Home Office,No,2046
+1152,105,Corporate,No,2070
+1176,104,Home Office,No,2072
+1182,107,Home Office,Yes,2022
+1178,100,Consumer,No,2019
+1181,106,Home Office,No,2007
+1187,100,Consumer,No,2053
+1183,103,Home Office,No,2053
+1191,109,Small Business,No,2005
+1165,104,Corporate,No,2027
+1166,108,Corporate,Yes,2012
+1188,105,Consumer,No,2031
+1186,107,Consumer,No,2075
+1185,109,Consumer,Yes,2055
+1197,105,Small Business,No,2077
+1206,100,Small Business,No,2040
+1193,101,Consumer,Yes,2031
+1198,106,Consumer,No,2059
+1199,104,Consumer,No,2016
+1189,107,Consumer,No,2025
+1195,104,Consumer,No,2027
+1200,108,Consumer,No,2042
+1203,105,Small Business,No,2060
+1190,101,Small Business,No,2008
+1209,101,Home Office,No,2000
+1192,101,Consumer,No,2017
+1196,106,Small Business,No,2048
+1211,109,Corporate,No,2065
+1194,108,Small Business,No,2023
+1208,100,Home Office,No,2088
+1219,104,Small Business,No,2016
+1212,101,Corporate,No,2094
+1216,107,Small Business,No,2091
+1223,101,Small Business,No,2013
+1225,105,Small Business,No,2067
+1213,106,Corporate,No,2086
+1215,107,Small Business,No,2009
+1217,101,Small Business,Yes,2044
+1220,107,Small Business,No,2000
+1221,107,Small Business,Yes,2011
+1201,107,Small Business,No,2079
+1202,104,Consumer,No,2051
+1226,103,Small Business,No,2019
+1204,107,Consumer,No,2037
+1222,106,Small Business,No,2037
+1218,100,Small Business,No,2057
+1230,101,Small Business,No,2062
+1227,105,Small Business,No,2028
+1224,107,Small Business,No,2016
+1233,108,Consumer,Yes,2020
+1241,107,Corporate,Yes,2048
+1242,104,Corporate,No,2038
+1234,101,Consumer,No,2087
+1236,100,Corporate,No,2065
+1248,101,Home Office,No,2087
+1251,106,Corporate,No,2024
+1246,106,Home Office,No,2029
+1228,104,Small Business,Yes,2060
+1239,106,Corporate,Yes,2000
+1253,102,Home Office,No,2079
+1259,102,Home Office,No,2015
+1229,101,Small Business,No,2090
+1250,107,Corporate,Yes,2046
+1244,100,Home Office,No,2044
+1254,106,Home Office,No,2076
+1257,100,Home Office,Yes,2067
+1261,107,Home Office,No,2041
+1245,100,Home Office,No,2037
+1231,107,Small Business,Yes,2028
+1255,100,Home Office,No,2058
+1267,104,Corporate,No,2098
+1258,108,Home Office,No,2017
+1264,101,Home Office,No,2100
+1268,101,Corporate,No,2038
+1237,101,Corporate,No,2012
+1247,101,Home Office,No,2009
+1262,100,Home Office,No,2029
+1272,101,Corporate,No,2027
+1265,106,Home Office,No,2009
+1274,104,Corporate,No,2090
+1263,103,Home Office,Yes,2058
+1269,101,Corporate,No,2038
+1273,108,Corporate,No,2067
+1275,108,Corporate,No,2031
+1276,101,Corporate,No,2069
+1279,103,Corporate,Yes,2088
+1277,106,Corporate,No,2046
+1282,103,Small Business,Yes,2069
+1238,100,Corporate,Yes,2089
+1281,105,Small Business,Yes,2043
+1286,109,Corporate,No,2066
+1280,105,Corporate,Yes,2056
+1287,107,Corporate,No,2028
+1283,107,Small Business,No,2035
+1289,108,Corporate,No,2063
+1288,100,Corporate,No,2062
+1292,107,Small Business,No,2047
+1291,103,Small Business,No,2017
+1290,109,Corporate,No,2007
+1296,102,Small Business,Yes,2063
+1293,109,Small Business,Yes,2015
+1295,108,Small Business,No,2054
+1271,107,Corporate,No,2013
+1298,103,Home Office,No,2033
+1300,103,Home Office,No,2061
+1303,104,Consumer,No,2041
+1299,101,Home Office,No,2003
+1305,101,Consumer,No,2094
+1311,107,Corporate,No,2001
+1309,104,Corporate,No,2018
+1312,108,Corporate,No,2002
+1304,108,Consumer,No,2032
+1278,105,Corporate,No,2065
+1307,105,Small Business,No,2022
+1310,101,Corporate,Yes,2079
+1315,106,Home Office,Yes,2100
+1316,103,Home Office,Yes,2024
+1314,101,Home Office,Yes,2100
+1313,100,Corporate,No,2061
+1285,100,Corporate,No,2066
+1319,104,Home Office,No,2096
+1317,109,Home Office,No,2037
+1320,100,Home Office,No,2032
+1323,105,Small Business,No,2057
+1324,106,Small Business,No,2010
+1326,104,Small Business,Yes,2076
+1328,103,Small Business,No,2082
+1301,100,Home Office,Yes,2061
+1322,108,Small Business,No,2022
+1325,109,Small Business,No,2084
+1318,107,Home Office,No,2021
+1330,101,Small Business,No,2056
+1327,105,Small Business,No,2092
+1332,106,Small Business,No,2050
+1331,101,Small Business,No,2046
+1333,108,Small Business,No,2059
+1334,109,Small Business,Yes,2050
+1340,103,Home Office,Yes,2010
+1329,100,Small Business,No,2019
+1335,103,Small Business,No,2097
+1344,104,Consumer,No,2093
+1341,108,Home Office,No,2008
+1336,105,Small Business,No,2085
+1337,106,Small Business,No,2009
+1346,105,Home Office,No,2015
+1343,109,Consumer,No,2017
+1338,102,Home Office,No,2095
+1354,105,Consumer,No,2086
+1347,101,Home Office,No,2096
+1357,109,Home Office,Yes,2067
+1351,106,Home Office,No,2067
+1355,105,Consumer,No,2018
+1350,109,Home Office,No,2030
+1348,104,Home Office,No,2015
+1361,102,Consumer,No,2049
+1358,100,Home Office,No,2075
+1352,105,Home Office,No,2079
+1360,106,Consumer,Yes,2023
+1367,100,Consumer,No,2062
+1371,103,Corporate,No,2003
+1364,106,Home Office,No,2080
+1365,101,Consumer,No,2047
+1363,103,Consumer,No,2041
+1369,106,Consumer,No,2055
+1374,103,Home Office,No,2027
+1375,109,Home Office,No,2088
+1372,103,Corporate,No,2055
+1381,106,Home Office,No,2097
+1379,109,Home Office,No,2009
+1383,102,Consumer,No,2019
+1377,105,Home Office,No,2021
+1384,106,Consumer,No,2096
+1380,100,Home Office,No,2012
+1386,106,Home Office,No,2000
+1389,102,Corporate,No,2050
+1392,103,Corporate,Yes,2084
+1387,106,Home Office,No,2064
+1394,108,Consumer,No,2066
+1391,105,Consumer,Yes,2012
+1395,108,Consumer,No,2072
+1396,109,Corporate,No,2056
+1399,104,Corporate,No,2015
+1390,109,Corporate,No,2003
+1401,103,Corporate,No,2036
+1368,103,Consumer,No,2019
+1397,106,Consumer,No,2071
+1400,106,Consumer,Yes,2020
+1403,109,Corporate,No,2007
+1398,100,Consumer,No,2099
+1404,102,Corporate,No,2043
+1402,101,Corporate,Yes,2025
+1406,104,Corporate,No,2036
+1405,102,Corporate,No,2086
+1376,106,Home Office,No,2001
+1408,100,Consumer,No,2056
+1409,105,Consumer,No,2086
+1410,106,Corporate,No,2091
+1411,107,Corporate,Yes,2046
+1412,109,Corporate,No,2064
+1414,101,Corporate,No,2028
+1422,105,Home Office,No,2093
+1413,101,Corporate,Yes,2057
+1416,108,Small Business,Yes,2000
+1418,105,Small Business,No,2026
+1424,107,Home Office,No,2015
+1419,105,Small Business,No,2085
+1421,104,Home Office,No,2029
+1434,107,Corporate,Yes,2026
+1427,107,Home Office,Yes,2078
+1425,106,Small Business,Yes,2022
+1429,106,Home Office,Yes,2042
+1378,106,Small Business,No,2047
+1432,109,Corporate,No,2025
+1433,109,Corporate,Yes,2082
+1437,100,Corporate,No,2040
+1438,106,Corporate,No,2080
+1435,100,Corporate,No,2083
+1442,101,Corporate,No,2047
+1441,102,Corporate,No,2042
+1443,105,Corporate,No,2081
+1451,108,Consumer,No,2000
+1393,100,Small Business,No,2004
+1417,109,Corporate,No,2081
+1447,103,Small Business,No,2067
+1446,105,Small Business,No,2046
+1450,100,Consumer,No,2094
+1452,105,Corporate,No,2063
+1439,106,Corporate,No,2068
+1457,100,Corporate,No,2035
+1454,101,Corporate,No,2033
+1430,100,Home Office,No,2077
+1455,105,Corporate,No,2089
+1445,107,Small Business,Yes,2028
+1456,101,Corporate,No,2068
+1461,101,Consumer,No,2025
+1459,105,Consumer,No,2043
+1462,107,Home Office,No,2015
+1448,109,Small Business,No,2083
+1463,102,Consumer,No,2024
+1468,105,Small Business,No,2009
+1453,106,Corporate,No,2055
+1458,101,Corporate,No,2062
+1469,108,Small Business,No,2036
+1471,108,Home Office,No,2003
+1467,108,Small Business,Yes,2100
+1472,106,Home Office,Yes,2049
+1464,104,Consumer,No,2033
+1473,106,Home Office,No,2008
+1466,102,Small Business,No,2063
+1475,104,Corporate,No,2028
+1480,107,Consumer,No,2033
+1484,100,Home Office,No,2006
+1479,108,Consumer,Yes,2076
+1486,105,Home Office,No,2062
+1481,106,Corporate,No,2028
+1478,105,Consumer,No,2002
+1490,105,Corporate,No,2066
+1487,100,Home Office,No,2068
+1497,106,Corporate,Yes,2014
+1485,106,Home Office,No,2083
+1482,108,Corporate,Yes,2029
+1491,104,Corporate,No,2003
+1495,105,Home Office,No,2100
+1488,104,Home Office,Yes,2076
+1500,103,Home Office,No,2002
+1494,109,Corporate,No,2064
+1496,105,Home Office,No,2061
+1492,106,Corporate,No,2065
+1502,101,Small Business,No,2024
+1499,103,Home Office,No,2070
+1503,105,Small Business,No,2050
+1510,103,Corporate,Yes,2056
+1507,104,Small Business,No,2092
+1505,108,Small Business,No,2099
+1517,107,Consumer,No,2096
+1520,101,Consumer,Yes,2012
+1527,100,Small Business,No,2013
+1509,101,Corporate,No,2012
+1519,108,Consumer,No,2095
+1525,101,Small Business,No,2023
+1518,107,Consumer,No,2089
+1521,108,Consumer,No,2004
+1526,109,Home Office,Yes,2022
+1531,105,Consumer,No,2033
+1514,100,Corporate,No,2014
+1523,101,Consumer,No,2034
+1528,100,Small Business,Yes,2020
+1533,104,Corporate,No,2079
+1511,100,Corporate,No,2068
+1536,104,Consumer,No,2084
+1530,100,Consumer,Yes,2041
+1544,102,Corporate,No,2011
+1545,104,Corporate,No,2071
+1534,108,Corporate,No,2092
+1548,106,Corporate,No,2001
+1550,103,Consumer,Yes,2091
+1537,101,Consumer,No,2008
+1540,107,Corporate,No,2002
+1546,101,Corporate,No,2083
+1547,108,Corporate,No,2014
+1551,108,Consumer,No,2100
+1541,106,Corporate,Yes,2068
+1512,104,Corporate,No,2057
+1559,101,Consumer,No,2028
+1515,100,Corporate,No,2043
+1538,107,Consumer,Yes,2061
+1542,104,Corporate,No,2001
+1556,106,Consumer,No,2028
+1557,106,Consumer,No,2093
+1558,100,Consumer,No,2066
+1561,101,Corporate,No,2036
+1552,103,Small Business,No,2014
+1565,103,Small Business,No,2036
+1566,105,Small Business,No,2042
+1562,107,Corporate,No,2043
+1554,106,Small Business,No,2056
+1522,105,Consumer,No,2032
+1563,107,Corporate,No,2064
+1571,108,Corporate,No,2002
+1568,104,Corporate,Yes,2057
+1569,101,Corporate,Yes,2060
+1580,107,Corporate,No,2057
+1577,100,Corporate,Yes,2074
+1578,106,Corporate,No,2088
+1581,100,Corporate,No,2032
+1553,104,Small Business,No,2032
+1579,109,Corporate,No,2064
+1585,103,Corporate,No,2072
+1574,108,Consumer,No,2046
+1572,108,Corporate,No,2043
+1575,105,Consumer,No,2016
+1591,100,Corporate,Yes,2006
+1583,106,Corporate,No,2078
+1590,107,Corporate,No,2082
+1592,108,Corporate,No,2060
+1584,105,Corporate,No,2006
+1595,105,Corporate,No,2056
+1597,106,Corporate,No,2048
+1602,104,Home Office,Yes,2012
+1582,108,Corporate,No,2007
+1587,104,Corporate,No,2091
+1603,107,Small Business,No,2019
+1599,108,Small Business,No,2058
+1596,101,Corporate,No,2045
+1606,105,Home Office,Yes,2084
+1607,109,Home Office,No,2018
+1612,101,Consumer,No,2017
+1593,109,Corporate,No,2059
+1618,105,Consumer,No,2094
+1609,105,Consumer,No,2008
+1600,101,Small Business,No,2097
+1622,105,Small Business,No,2028
+1613,108,Consumer,No,2004
+1619,107,Consumer,No,2056
+1623,101,Small Business,No,2057
+1604,103,Small Business,No,2048
+1614,109,Consumer,No,2062
+1620,109,Consumer,No,2014
+1628,107,Home Office,No,2000
+1610,107,Consumer,Yes,2006
+1616,102,Small Business,Yes,2051
+1611,105,Consumer,No,2012
+1626,106,Corporate,No,2024
+1630,101,Home Office,Yes,2083
+1632,108,Home Office,No,2043
+1633,107,Home Office,No,2047
+1627,100,Corporate,Yes,2089
+1638,109,Home Office,No,2057
+1636,101,Home Office,Yes,2016
+1639,100,Home Office,No,2005
+1641,105,Home Office,No,2094
+1629,101,Home Office,Yes,2034
+1642,106,Home Office,No,2100
+1644,104,Small Business,Yes,2010
+1649,100,Corporate,No,2008
+1651,101,Corporate,No,2067
+1654,103,Corporate,No,2070
+1646,108,Small Business,No,2056
+1657,105,Small Business,No,2077
+1637,104,Home Office,No,2007
+1625,105,Home Office,No,2093
+1653,100,Corporate,No,2082
+1663,100,Home Office,No,2001
+1662,107,Home Office,No,2006
+1660,106,Small Business,Yes,2073
+1670,107,Small Business,No,2009
+1640,105,Home Office,No,2082
+1634,107,Home Office,No,2018
+1668,104,Consumer,No,2094
+1672,101,Small Business,No,2005
+1665,100,Consumer,No,2084
+1675,106,Small Business,No,2049
+1676,102,Small Business,Yes,2040
+1658,100,Small Business,No,2007
+1667,107,Consumer,No,2047
+1680,108,Consumer,No,2083
+1648,108,Corporate,No,2047
+1671,100,Small Business,No,2031
+1683,100,Consumer,Yes,2095
+1681,103,Consumer,No,2095
+1677,108,Small Business,No,2074
+1650,104,Corporate,No,2001
+1689,104,Corporate,No,2091
+1673,107,Small Business,No,2045
+1686,104,Corporate,No,2008
+1690,107,Corporate,No,2021
+1682,104,Consumer,Yes,2034
+1684,107,Consumer,No,2021
+1696,105,Home Office,No,2024
+1692,103,Consumer,No,2085
+1699,107,Small Business,No,2069
+1693,103,Consumer,No,2047
+1697,104,Home Office,No,2097
+1707,103,Small Business,No,2033
+1704,105,Corporate,No,2064
+1702,100,Home Office,No,2037
+1695,106,Home Office,No,2069
+1712,109,Corporate,No,2031
+1709,107,Consumer,No,2000
+1713,105,Corporate,No,2067
+1711,105,Corporate,No,2031
+1705,104,Corporate,No,2090
+1716,104,Corporate,No,2077
+1718,107,Consumer,No,2056
+1715,107,Corporate,Yes,2029
+1722,109,Corporate,No,2096
+1720,104,Corporate,No,2057
+1721,105,Corporate,No,2059
+1727,103,Small Business,Yes,2043
+1679,103,Consumer,No,2045
+1719,108,Corporate,No,2029
+1723,104,Corporate,Yes,2061
+1687,101,Corporate,No,2094
+1725,104,Corporate,No,2078
+1733,108,Small Business,Yes,2011
+1730,100,Small Business,No,2030
+1726,109,Corporate,Yes,2009
+1732,105,Small Business,No,2076
+1734,101,Small Business,Yes,2078
+1728,109,Corporate,No,2030
+1731,101,Small Business,Yes,2024
+1735,104,Small Business,No,2043
+1737,105,Corporate,No,2008
+1740,101,Corporate,Yes,2039
+1739,105,Corporate,No,2015
+1738,107,Corporate,Yes,2077
+1701,109,Home Office,No,2093
+1741,106,Corporate,No,2027
+1747,109,Home Office,No,2081
+1744,105,Consumer,No,2071
+1745,105,Home Office,Yes,2069
+1749,100,Home Office,No,2094
+1750,106,Home Office,No,2082
+1748,105,Consumer,No,2038
+1708,106,Small Business,No,2007
+1743,101,Consumer,No,2001
+1755,108,Consumer,No,2091
+1751,107,Home Office,No,2010
+1752,101,Home Office,No,2051
+1757,107,Consumer,No,2056
+1758,100,Consumer,No,2030
+1759,100,Consumer,No,2099
+1765,101,Consumer,No,2088
+1763,100,Consumer,No,2093
+1771,104,Home Office,No,2012
+1754,104,Consumer,No,2051
+1756,109,Consumer,No,2024
+1764,100,Consumer,No,2061
+1746,100,Home Office,No,2045
+1769,105,Home Office,Yes,2037
+1770,105,Home Office,No,2048
+1777,100,Consumer,No,2059
+1760,104,Consumer,Yes,2001
+1776,108,Consumer,No,2059
+1779,106,Consumer,Yes,2054
+1767,105,Home Office,Yes,2062
+1762,108,Consumer,No,2058
+1775,107,Consumer,No,2020
+1781,105,Corporate,No,2014
+1778,106,Consumer,Yes,2072
+1783,104,Home Office,No,2024
+1772,104,Corporate,No,2013
+1788,105,Consumer,No,2082
+1782,100,Home Office,No,2065
+1790,109,Consumer,No,2097
+1792,100,Corporate,No,2075
+1796,102,Corporate,Yes,2030
+1784,100,Corporate,Yes,2050
+1785,105,Corporate,No,2023
+1786,101,Corporate,No,2014
+1802,105,Corporate,No,2095
+1803,104,Corporate,No,2061
+1804,107,Corporate,No,2024
+1793,100,Home Office,No,2051
+1794,104,Consumer,No,2058
+1808,105,Home Office,No,2051
+1809,103,Corporate,No,2049
+1798,106,Corporate,No,2056
+1799,100,Corporate,No,2038
+1805,103,Corporate,No,2086
+1815,108,Home Office,No,2023
+1773,109,Corporate,Yes,2067
+1811,106,Corporate,No,2003
+1814,107,Home Office,Yes,2032
+1816,108,Consumer,No,2075
+1820,106,Consumer,No,2058
+1810,103,Corporate,Yes,2098
+1813,106,Home Office,No,2023
+1821,100,Consumer,Yes,2079
+1789,104,Consumer,No,2054
+1817,105,Consumer,No,2052
+1819,100,Consumer,No,2048
+1824,101,Corporate,Yes,2017
+1827,104,Corporate,No,2049
+1826,104,Corporate,No,2003
+1818,103,Consumer,No,2057
+1828,103,Corporate,No,2056
+1822,103,Corporate,Yes,2034
+1833,106,Corporate,No,2065
+1834,109,Corporate,No,2051
+1837,105,Corporate,No,2048
+1823,105,Corporate,No,2037
+1831,106,Corporate,No,2043
+1836,106,Corporate,Yes,2095
+1839,109,Corporate,No,2012
+1842,108,Consumer,No,2051
+1849,106,Consumer,Yes,2082
+1838,104,Corporate,No,2012
+1845,106,Home Office,No,2006
+1852,103,Home Office,No,2050
+1850,106,Consumer,No,2016
+1853,107,Home Office,No,2051
+1843,108,Consumer,Yes,2042
+1847,102,Corporate,No,2035
+1857,101,Corporate,Yes,2006
+1854,105,Home Office,No,2097
+1855,100,Corporate,No,2052
+1856,103,Corporate,No,2045
+1858,107,Corporate,No,2030
+1860,107,Home Office,No,2042
+1800,106,Corporate,No,2055
+1861,101,Home Office,No,2064
+1863,101,Home Office,No,2051
+1859,105,Corporate,No,2099
+1866,104,Home Office,No,2003
+1864,100,Home Office,No,2089
+1862,104,Corporate,No,2070
+1807,101,Home Office,No,2033
+1869,101,Consumer,No,2071
+1865,107,Corporate,No,2072
+1870,101,Consumer,No,2091
+1867,100,Corporate,No,2058
+1872,108,Corporate,Yes,2087
+1875,107,Consumer,No,2044
+1877,103,Consumer,No,2028
+1873,104,Corporate,No,2004
+1883,105,Home Office,Yes,2023
+1879,105,Home Office,No,2084
+1886,107,Home Office,No,2092
+1885,107,Home Office,Yes,2093
+1876,100,Consumer,No,2092
+1882,101,Home Office,No,2022
+1890,104,Corporate,No,2046
+1829,105,Corporate,No,2014
+1840,106,Home Office,No,2088
+1881,105,Home Office,No,2039
+1889,107,Home Office,No,2024
+1896,100,Corporate,No,2015
+1891,108,Home Office,Yes,2048
+1884,101,Home Office,No,2008
+1894,100,Home Office,No,2100
+1901,104,Consumer,No,2088
+1880,100,Home Office,No,2018
+1893,107,Consumer,Yes,2046
+1899,100,Consumer,No,2046
+1902,105,Consumer,No,2060
+1888,105,Home Office,No,2044
+1904,107,Consumer,No,2019
+1898,103,Consumer,No,2003
+1900,105,Consumer,No,2034
+1907,101,Corporate,No,2096
+1903,105,Consumer,No,2014
+1908,107,Corporate,Yes,2037
+1906,109,Corporate,No,2095
+1910,108,Home Office,No,2058
+1912,101,Corporate,No,2071
+1917,101,Home Office,No,2063
+1913,104,Corporate,No,2009
+1914,109,Corporate,No,2014
+1919,103,Home Office,No,2022
+1922,100,Small Business,Yes,2030
+1918,104,Home Office,No,2013
+1916,105,Home Office,No,2026
+1924,107,Small Business,No,2038
+1927,106,Home Office,No,2055
+1938,105,Corporate,No,2037
+1928,105,Home Office,No,2041
+1935,104,Corporate,No,2001
+1940,102,Corporate,Yes,2073
+1923,106,Small Business,No,2020
+1930,106,Consumer,No,2094
+1931,108,Consumer,No,2088
+1921,102,Small Business,No,2048
+1942,101,Consumer,No,2077
+1939,106,Corporate,No,2000
+1943,104,Consumer,No,2006
+1933,104,Corporate,No,2086
+1945,104,Consumer,No,2043
+1946,105,Consumer,Yes,2050
+1955,108,Consumer,No,2037
+1948,109,Corporate,No,2043
+1949,107,Small Business,No,2065
+1960,100,Home Office,No,2008
+1925,109,Small Business,No,2029
+1950,101,Small Business,No,2070
+1958,100,Consumer,No,2031
+1962,106,Home Office,No,2075
+1953,104,Corporate,No,2007
+1956,100,Consumer,No,2058
+1959,107,Corporate,Yes,2092
+1964,101,Consumer,No,2077
+1963,103,Corporate,No,2042
+1957,109,Consumer,No,2061
+1966,103,Home Office,No,2035
+1967,103,Small Business,No,2054
+1968,101,Small Business,Yes,2043
+1971,102,Corporate,No,2025
+1972,101,Corporate,No,2070
+1974,105,Consumer,No,2034
+1976,105,Consumer,Yes,2096
+1970,109,Corporate,No,2069
+1978,101,Corporate,No,2071
+1980,101,Corporate,No,2036
+1983,103,Consumer,No,2090
+1979,103,Corporate,No,2059
+1986,101,Home Office,No,2023
+1981,101,Corporate,No,2093
+1988,107,Home Office,No,2059
+1989,107,Home Office,No,2058
+1984,101,Consumer,No,2035
+1934,103,Home Office,No,2066
+1991,100,Home Office,No,2020
+1993,104,Small Business,Yes,2089
+1994,105,Small Business,No,2068
+1995,108,Small Business,No,2086
+1990,100,Home Office,Yes,2054
+1936,106,Corporate,No,2025
+1997,106,Consumer,No,2073
+1999,100,Corporate,Yes,2044
+2007,104,Corporate,No,2056
+2000,103,Corporate,No,2086
+2004,101,Home Office,No,2043
+2011,108,Corporate,No,2075
+2001,104,Corporate,No,2067
+2009,100,Corporate,No,2017
+2017,105,Home Office,No,2069
+2002,104,Corporate,No,2013
+2006,100,Home Office,No,2026
+2014,108,Home Office,No,2015
+2010,103,Corporate,No,2069
+2019,100,Home Office,Yes,2026
+2018,100,Corporate,No,2009
+1961,101,Home Office,No,2038
+2023,109,Home Office,No,2015
+2015,103,Home Office,No,2038
+1975,105,Consumer,No,2005
+2021,105,Corporate,No,2088
+2026,106,Small Business,Yes,2056
+2027,106,Small Business,No,2089
+2030,101,Corporate,No,2060
+2029,103,Corporate,No,2066
+2025,105,Small Business,No,2046
+2035,106,Consumer,No,2008
+2034,100,Consumer,No,2094
+2033,108,Consumer,No,2070
+2032,103,Consumer,No,2050
+2038,107,Small Business,Yes,2094
+2039,106,Corporate,No,2062
+2037,108,Small Business,Yes,2100
+2046,105,Corporate,Yes,2055
+2041,106,Home Office,No,2058
+2012,100,Corporate,No,2053
+2048,104,Consumer,Yes,2019
+2050,100,Consumer,Yes,2025
+2044,105,Corporate,Yes,2077
+2053,103,Home Office,No,2009
+2052,107,Home Office,No,2007
+2020,102,Home Office,No,2057
+2056,108,Home Office,No,2079
+2049,109,Corporate,No,2046
+2059,107,Corporate,No,2071
+2042,101,Home Office,No,2063
+2063,104,Corporate,No,2023
+2055,100,Home Office,No,2090
+2061,101,Corporate,No,2086
+2058,105,Corporate,No,2041
+2047,100,Corporate,Yes,2057
+2070,100,Corporate,No,2048
+2062,100,Corporate,Yes,2038
+2067,103,Corporate,No,2084
+2075,103,Corporate,No,2022
+2065,104,Corporate,No,2027
+2066,105,Home Office,No,2084
+2071,103,Corporate,No,2051
+2078,105,Home Office,No,2057
+2072,103,Corporate,No,2023
+2084,103,Small Business,No,2058
+2079,103,Home Office,No,2039
+2073,108,Consumer,No,2049
+2069,107,Consumer,No,2023
+2082,103,Home Office,Yes,2080
+2085,107,Small Business,No,2003
+2087,109,Corporate,No,2098
+2095,105,Corporate,No,2078
+2080,100,Home Office,No,2080
+2089,100,Corporate,Yes,2092
+2094,105,Corporate,Yes,2039
+2090,100,Corporate,No,2007
+2097,104,Home Office,No,2071
+2092,105,Consumer,No,2038
+2098,109,Home Office,No,2054
+2103,105,Corporate,No,2006
+2077,105,Home Office,No,2070
+2099,106,Home Office,No,2077
+2108,104,Corporate,No,2024
+2104,101,Corporate,No,2089
+2110,106,Corporate,No,2042
+2114,104,Corporate,No,2024
+2106,105,Corporate,No,2003
+2100,100,Home Office,Yes,2021
+2115,105,Corporate,No,2008
+2117,108,Home Office,Yes,2010
+2111,107,Home Office,No,2076
+2101,100,Home Office,Yes,2098
+2118,109,Home Office,Yes,2082
+2112,101,Corporate,No,2016
+2107,105,Corporate,Yes,2041
+2119,106,Home Office,No,2014
+2124,101,Consumer,No,2045
+2122,106,Consumer,No,2060
+2109,107,Corporate,No,2032
+2125,105,Corporate,No,2027
+2081,108,Corporate,No,2073
+2088,103,Corporate,No,2035
+2129,105,Home Office,No,2050
+2133,107,Corporate,No,2012
+2130,101,Home Office,No,2079
+2123,100,Corporate,No,2023
+2127,106,Home Office,No,2070
+2132,106,Home Office,No,2049
+2137,106,Corporate,No,2095
+2142,106,Home Office,No,2006
+2138,101,Corporate,No,2081
+2135,106,Home Office,No,2080
+2131,107,Home Office,Yes,2051
+2141,108,Home Office,No,2019
+2146,103,Corporate,No,2026
+2143,104,Home Office,No,2051
+2139,100,Corporate,No,2015
+2151,107,Corporate,No,2067
+2158,108,Corporate,No,2073
+2105,106,Corporate,Yes,2098
+2153,104,Home Office,No,2098
+2145,108,Corporate,No,2069
+2156,100,Corporate,Yes,2068
+2161,107,Home Office,No,2075
+2155,107,Home Office,No,2066
+2157,101,Home Office,Yes,2000
+2159,104,Corporate,No,2027
+2162,107,Corporate,Yes,2086
+2164,103,Small Business,No,2032
+2160,103,Corporate,No,2001
+2121,104,Corporate,No,2020
+2167,104,Small Business,No,2082
+2169,105,Small Business,No,2006
+2168,101,Small Business,No,2062
+2166,100,Small Business,No,2000
+2165,100,Small Business,No,2005
+2175,109,Small Business,No,2044
+2176,107,Small Business,No,2090
+2171,104,Home Office,Yes,2024
+2174,106,Small Business,Yes,2089
+2177,109,Small Business,No,2045
+2178,102,Small Business,No,2092
+2179,109,Small Business,No,2077
+2180,106,Small Business,No,2016
+2187,102,Corporate,No,2030
+2185,101,Home Office,Yes,2088
+2188,102,Corporate,No,2038
+2181,102,Small Business,No,2043
+2183,107,Home Office,No,2097
+2196,101,Small Business,No,2073
+2191,100,Home Office,No,2085
+2190,104,Home Office,Yes,2015
+2193,106,Home Office,No,2079
+2195,108,Small Business,No,2037
+2148,109,Home Office,No,2026
+2197,100,Small Business,No,2046
+2202,109,Home Office,No,2033
+2189,104,Corporate,Yes,2094
+2192,107,Home Office,No,2076
+2200,108,Home Office,No,2065
+2207,106,Consumer,No,2021
+2149,103,Home Office,No,2042
+2201,103,Small Business,No,2050
+2198,105,Small Business,No,2066
+2204,102,Home Office,No,2050
+2206,107,Consumer,No,2050
+2210,108,Home Office,No,2052
+2203,101,Home Office,Yes,2012
+2209,107,Home Office,Yes,2054
+2220,103,Consumer,No,2041
+2216,109,Corporate,No,2013
+2211,109,Home Office,No,2086
+2221,103,Consumer,No,2008
+2212,100,Home Office,No,2004
+2218,105,Home Office,No,2072
+2228,106,Corporate,No,2017
+2223,103,Small Business,No,2019
+2213,105,Home Office,No,2048
+2227,103,Corporate,No,2029
+2224,108,Small Business,Yes,2011
+2230,101,Consumer,No,2055
+2231,103,Consumer,No,2029
+2172,109,Home Office,No,2014
+2234,106,Consumer,No,2060
+2232,107,Consumer,No,2100
+2236,109,Consumer,No,2094
+2235,101,Consumer,No,2088
+2233,100,Consumer,No,2086
+2243,104,Corporate,No,2046
+2241,105,Corporate,No,2030
+2237,107,Corporate,No,2045
+2245,108,Corporate,No,2056
+2250,105,Home Office,No,2028
+2240,101,Corporate,No,2081
+2244,105,Corporate,Yes,2061
+2247,103,Home Office,No,2074
+2254,106,Corporate,No,2033
+2251,100,Home Office,Yes,2044
+2249,106,Home Office,No,2092
+2256,109,Corporate,Yes,2069
+2248,109,Home Office,No,2072
+2260,100,Corporate,No,2034
+2258,105,Corporate,Yes,2013
+2262,102,Corporate,No,2089
+2264,103,Corporate,No,2065
+2265,109,Corporate,No,2075
+2257,100,Corporate,Yes,2054
+2268,105,Small Business,Yes,2087
+2276,107,Consumer,Yes,2030
+2277,101,Consumer,No,2011
+2270,104,Small Business,No,2074
+2261,101,Corporate,No,2093
+2269,106,Small Business,No,2046
+2282,103,Home Office,No,2059
+2279,100,Home Office,No,2085
+2266,100,Corporate,Yes,2055
+2285,108,Corporate,No,2051
+2274,106,Corporate,Yes,2009
+2273,103,Corporate,No,2010
+2280,101,Home Office,No,2097
+2186,105,Home Office,No,2012
+2215,106,Corporate,Yes,2046
+2225,101,Small Business,No,2026
+2286,101,Corporate,No,2001
+2293,100,Corporate,No,2023
+2281,106,Home Office,No,2063
+2289,102,Home Office,No,2066
+2290,105,Home Office,No,2013
+2295,101,Corporate,No,2007
+2283,100,Home Office,No,2064
+2291,104,Home Office,No,2057
+2297,103,Corporate,No,2053
+2287,100,Corporate,No,2096
+2300,105,Corporate,No,2044
+2306,100,Small Business,No,2011
+2308,107,Small Business,No,2023
+2294,101,Corporate,No,2099
+2299,107,Corporate,No,2081
+2309,100,Small Business,Yes,2090
+2298,101,Corporate,No,2094
+2310,103,Small Business,No,2023
+2311,100,Small Business,No,2023
+2312,109,Small Business,No,2022
+2296,108,Corporate,No,2003
+2316,105,Small Business,No,2098
+2318,100,Small Business,No,2020
+2319,100,Small Business,No,2001
+2317,102,Small Business,No,2016
+2321,107,Small Business,No,2049
+2323,104,Small Business,No,2031
+2320,105,Small Business,No,2011
+2325,105,Small Business,No,2085
+2326,104,Small Business,Yes,2002
+2327,107,Small Business,No,2026
+2301,101,Corporate,No,2066
+2313,100,Small Business,No,2036
+2324,104,Small Business,No,2097
+2329,105,Home Office,No,2029
+2332,103,Consumer,Yes,2042
+2335,105,Consumer,No,2088
+2337,100,Home Office,No,2043
+2341,104,Home Office,No,2035
+2342,106,Home Office,No,2097
+2314,104,Small Business,No,2000
+2333,100,Small Business,No,2004
+2338,104,Home Office,No,2050
+2343,108,Home Office,No,2068
+2330,101,Home Office,No,2055
+2334,107,Consumer,No,2048
+2339,109,Home Office,No,2058
+2350,104,Consumer,Yes,2068
+2347,100,Corporate,No,2001
+2351,101,Corporate,No,2053
+2348,106,Corporate,No,2010
+2345,100,Corporate,Yes,2033
+2346,109,Corporate,No,2083
+2356,109,Consumer,No,2045
+2253,108,Corporate,No,2011
+2352,104,Consumer,No,2064
+2353,105,Corporate,No,2084
+2358,107,Corporate,No,2051
+2361,104,Corporate,No,2036
+2359,101,Home Office,No,2039
+2355,105,Consumer,No,2081
+2363,103,Home Office,No,2001
+2365,107,Corporate,Yes,2043
+2368,103,Consumer,No,2083
+2360,107,Home Office,No,2053
+2372,105,Corporate,No,2004
+2302,104,Corporate,No,2064
+2366,101,Corporate,No,2018
+2371,101,Small Business,No,2001
+2373,109,Small Business,No,2049
+2369,108,Consumer,No,2031
+2379,102,Small Business,No,2091
+2378,105,Corporate,Yes,2063
+2374,106,Small Business,Yes,2092
+2384,104,Small Business,No,2004
+2377,105,Corporate,No,2062
+2380,107,Small Business,Yes,2011
+2303,103,Corporate,Yes,2009
+2385,104,Small Business,No,2061
+2382,100,Small Business,Yes,2009
+2387,106,Small Business,Yes,2075
+2393,103,Corporate,No,2057
+2394,100,Corporate,No,2056
+2390,103,Corporate,No,2047
+2395,100,Corporate,No,2075
+2398,103,Corporate,No,2073
+2381,104,Small Business,No,2046
+2399,107,Corporate,No,2041
+2401,105,Consumer,No,2046
+2386,104,Small Business,No,2091
+2406,102,Consumer,No,2016
+2405,109,Consumer,No,2083
+2407,108,Consumer,No,2007
+2400,103,Consumer,No,2076
+2305,107,Small Business,Yes,2004
+2397,103,Corporate,No,2074
+2410,105,Small Business,No,2095
+2409,102,Small Business,No,2040
+2403,101,Consumer,Yes,2025
+2416,108,Consumer,No,2000
+2402,104,Consumer,No,2081
+2414,103,Consumer,Yes,2000
+2376,101,Corporate,No,2056
+2411,107,Small Business,No,2040
+2419,108,Consumer,No,2004
+2415,101,Consumer,No,2100
+2417,104,Consumer,No,2075
+2418,109,Consumer,No,2092
+2413,100,Consumer,No,2019
+2420,103,Consumer,Yes,2007
+2426,105,Small Business,No,2014
+2422,106,Home Office,No,2091
+2429,102,Home Office,Yes,2046
+2433,108,Consumer,No,2099
+2440,104,Consumer,No,2087
+2443,103,Corporate,No,2012
+2432,105,Consumer,No,2000
+2439,104,Corporate,No,2062
+2441,101,Consumer,No,2076
+2444,108,Consumer,No,2059
+2427,105,Corporate,No,2094
+2423,106,Home Office,Yes,2084
+2430,105,Home Office,No,2029
+2391,101,Corporate,No,2056
+2435,102,Consumer,No,2002
+2447,103,Consumer,Yes,2046
+2404,104,Consumer,No,2041
+2442,109,Consumer,No,2040
+2453,107,Corporate,Yes,2058
+2448,109,Consumer,No,2083
+2454,105,Corporate,No,2048
+2431,106,Consumer,Yes,2089
+2450,109,Home Office,No,2006
+2437,106,Home Office,No,2052
+2458,100,Home Office,No,2009
+2451,108,Home Office,No,2025
+2455,100,Corporate,No,2064
+2445,105,Corporate,No,2066
+2463,101,Corporate,No,2001
+2456,101,Home Office,No,2032
+2467,101,Corporate,No,2058
+2457,106,Home Office,No,2011
+2459,106,Home Office,No,2029
+2462,100,Corporate,No,2031
+2468,102,Home Office,No,2038
+2470,107,Home Office,No,2088
+2466,105,Corporate,No,2071
+2472,105,Home Office,No,2026
+2469,100,Home Office,No,2075
+2476,103,Small Business,No,2069
+2480,104,Corporate,Yes,2050
+2478,108,Corporate,No,2072
+2481,105,Corporate,No,2083
+2483,102,Corporate,No,2080
+2473,105,Home Office,No,2004
+2479,107,Corporate,No,2086
+2484,107,Corporate,No,2005
+2489,101,Consumer,No,2027
+2475,105,Small Business,Yes,2077
+2486,106,Small Business,No,2057
+2487,106,Small Business,No,2041
+2488,100,Consumer,No,2046
+2492,106,Consumer,No,2075
+2499,107,Corporate,Yes,2051
+2491,100,Home Office,Yes,2089
+2500,105,Small Business,No,2049
+2490,109,Home Office,No,2018
+2493,107,Consumer,No,2001
+2495,101,Consumer,No,2037
+2497,105,Small Business,No,2048
+2502,109,Home Office,No,2083
+2505,101,Home Office,No,2061
+2506,101,Home Office,No,2061
+2494,108,Home Office,No,2039
+2503,106,Home Office,No,2014
+2508,106,Home Office,No,2054
+2498,106,Corporate,Yes,2019
+2510,105,Home Office,No,2000
+2511,101,Home Office,No,2084
+2507,109,Home Office,No,2094
+2509,107,Home Office,No,2053
+2515,108,Home Office,No,2033
+2512,101,Home Office,No,2052
+2517,103,Home Office,No,2087
+2513,106,Home Office,No,2095
+2518,108,Home Office,No,2026
+2514,105,Home Office,No,2084
+2516,101,Home Office,No,2031
+2521,104,Home Office,No,2094
+2519,107,Home Office,No,2005
+2520,109,Home Office,No,2054
+2527,105,Corporate,No,2040
+2522,103,Home Office,No,2071
+2526,104,Corporate,No,2025
+2523,105,Home Office,No,2097
+2529,103,Small Business,No,2055
+2525,101,Corporate,No,2091
+2531,108,Small Business,No,2041
+2532,100,Small Business,No,2031
+2533,101,Small Business,No,2042
+2535,105,Small Business,No,2077
+2530,104,Small Business,No,2089
+2536,104,Small Business,No,2003
+2538,106,Corporate,No,2043
+2534,100,Small Business,No,2049
+2539,105,Home Office,Yes,2054
+2425,100,Small Business,No,2071
+2434,103,Consumer,No,2091
+2540,107,Home Office,No,2025
+2543,109,Small Business,No,2100
+2544,106,Small Business,No,2099
+2545,103,Home Office,No,2095
+2547,100,Small Business,No,2093
+2548,101,Small Business,Yes,2088
+2549,108,Small Business,Yes,2002
+2542,106,Home Office,No,2050
+2550,103,Small Business,No,2076
+2551,101,Small Business,No,2039
+2555,107,Home Office,No,2026
+2556,105,Home Office,No,2043
+2460,107,Home Office,No,2025
+2562,105,Consumer,No,2012
+2563,106,Home Office,No,2055
+2546,106,Small Business,No,2065
+2566,103,Home Office,No,2002
+2567,105,Home Office,No,2094
+2558,107,Corporate,No,2068
+2464,101,Consumer,No,2069
+2568,100,Home Office,No,2037
+2560,106,Consumer,No,2001
+2564,105,Home Office,Yes,2006
+2553,104,Home Office,No,2078
+2554,101,Home Office,No,2051
+2574,100,Consumer,Yes,2028
+2581,100,Home Office,No,2052
+2572,109,Consumer,Yes,2099
+2565,101,Home Office,Yes,2015
+2570,100,Consumer,No,2053
+2561,101,Consumer,No,2039
+2583,106,Home Office,No,2078
+2580,104,Home Office,No,2020
+2578,109,Home Office,Yes,2034
+2571,100,Consumer,Yes,2054
+2577,109,Home Office,No,2027
+2591,106,Corporate,No,2077
+2579,103,Home Office,No,2042
+2587,104,Home Office,No,2053
+2592,106,Corporate,No,2099
+2593,105,Corporate,No,2010
+2575,108,Consumer,No,2021
+2589,105,Home Office,No,2100
+2598,104,Corporate,No,2074
+2594,109,Corporate,No,2039
+2584,105,Home Office,No,2009
+2599,103,Corporate,No,2092
+2596,105,Corporate,No,2099
+2602,106,Corporate,No,2048
+2601,102,Corporate,No,2017
+2608,106,Corporate,No,2058
+2604,108,Corporate,No,2041
+2612,101,Corporate,No,2066
+2603,101,Corporate,Yes,2087
+2606,105,Corporate,No,2027
+2607,100,Corporate,No,2020
+2610,108,Corporate,No,2093
+2611,100,Corporate,No,2049
+2616,106,Corporate,No,2088
+2617,103,Corporate,No,2039
+2614,100,Corporate,No,2029
+2613,100,Corporate,No,2053
+2619,106,Corporate,No,2073
+2620,105,Corporate,No,2046
+2621,104,Corporate,No,2043
+2618,105,Corporate,Yes,2094
+2628,104,Corporate,No,2062
+2623,100,Corporate,No,2074
+2632,108,Corporate,No,2083
+2624,109,Corporate,Yes,2090
+2626,101,Consumer,Yes,2021
+2630,100,Small Business,No,2088
+2634,106,Corporate,No,2050
+2629,100,Small Business,No,2068
+2635,100,Corporate,No,2051
+2585,101,Home Office,No,2015
+2631,104,Corporate,No,2098
+2642,105,Home Office,No,2010
+2643,101,Consumer,No,2086
+2588,106,Home Office,No,2069
+2638,106,Consumer,No,2077
+2639,104,Consumer,No,2073
+2645,109,Consumer,No,2044
+2647,109,Corporate,No,2055
+2653,108,Consumer,No,2096
+2649,103,Corporate,No,2059
+2644,107,Consumer,No,2045
+2650,106,Corporate,No,2011
+2652,106,Consumer,No,2092
+2637,103,Consumer,No,2057
+2660,109,Small Business,No,2015
+2666,101,Home Office,No,2051
+2656,106,Corporate,Yes,2055
+2600,106,Corporate,No,2014
+2663,100,Small Business,No,2006
+2664,100,Small Business,No,2005
+2641,109,Home Office,No,2007
+2667,100,Home Office,No,2091
+2668,109,Corporate,Yes,2085
+2661,105,Small Business,No,2095
+2655,100,Consumer,Yes,2059
+2670,103,Home Office,No,2032
+2672,100,Home Office,No,2052
+2658,101,Corporate,No,2037
+2673,103,Home Office,No,2035
+2675,101,Small Business,No,2079
+2677,106,Small Business,No,2053
+2681,103,Corporate,No,2021
+2669,104,Corporate,Yes,2013
+2671,100,Home Office,No,2023
+2683,100,Small Business,No,2054
+2684,100,Small Business,No,2015
+2685,105,Small Business,No,2051
+2678,100,Small Business,No,2042
+2690,103,Home Office,No,2097
+2689,101,Home Office,No,2059
+2687,109,Home Office,No,2087
+2688,109,Home Office,No,2038
+2605,107,Corporate,No,2093
+2698,104,Home Office,No,2031
+2691,106,Home Office,No,2021
+2692,107,Home Office,No,2081
+2694,107,Home Office,No,2020
+2696,100,Home Office,No,2077
+2699,102,Corporate,No,2089
+2697,101,Corporate,No,2014
+2693,100,Home Office,No,2053
+2700,105,Small Business,No,2063
+2702,101,Small Business,No,2057
+2704,105,Consumer,No,2068
+2708,102,Consumer,No,2096
+2709,106,Consumer,No,2066
+2705,108,Home Office,No,2009
+2713,104,Corporate,No,2020
+2701,104,Small Business,No,2003
+2715,109,Corporate,No,2085
+2712,103,Corporate,No,2055
+2718,101,Consumer,No,2036
+2706,104,Consumer,No,2100
+2720,104,Small Business,Yes,2042
+2717,106,Consumer,No,2063
+2723,109,Corporate,Yes,2063
+2714,107,Corporate,Yes,2075
+2724,101,Home Office,No,2008
+2725,104,Home Office,No,2069
+2721,100,Corporate,No,2073
+2729,104,Consumer,No,2048
+2727,101,Consumer,No,2024
+2728,106,Consumer,Yes,2076
+2733,103,Small Business,No,2072
+2731,109,Consumer,No,2072
+2734,105,Small Business,No,2065
+2730,101,Consumer,No,2093
+2738,103,Small Business,No,2026
+2736,103,Small Business,No,2077
+2743,107,Corporate,Yes,2081
+2735,104,Small Business,No,2079
+2737,100,Small Business,No,2085
+2657,105,Corporate,Yes,2007
+2747,103,Corporate,Yes,2005
+2662,103,Small Business,No,2099
+2740,103,Small Business,No,2098
+2744,104,Corporate,No,2042
+2749,106,Small Business,No,2020
+2680,109,Corporate,No,2017
+2746,104,Corporate,Yes,2090
+2741,104,Small Business,Yes,2037
+2753,106,Consumer,Yes,2078
+2745,100,Corporate,No,2016
+2750,105,Small Business,No,2078
+2754,103,Consumer,No,2097
+2760,101,Corporate,No,2054
+2755,106,Consumer,No,2086
+2759,100,Corporate,No,2062
+2764,100,Corporate,No,2053
+2752,106,Consumer,No,2086
+2756,105,Consumer,Yes,2005
+2758,101,Corporate,Yes,2083
+2762,100,Corporate,No,2000
+2765,104,Corporate,No,2067
+2769,107,Corporate,No,2080
+2770,104,Corporate,No,2066
+2775,101,Consumer,No,2041
+2766,104,Corporate,No,2074
+2776,100,Consumer,No,2070
+2778,106,Consumer,No,2023
+2773,100,Corporate,No,2042
+2779,101,Corporate,No,2009
+2771,108,Corporate,No,2014
+2780,108,Corporate,No,2050
+2785,101,Corporate,No,2042
+2781,108,Consumer,No,2088
+2790,102,Corporate,Yes,2021
+2783,108,Corporate,No,2055
+2787,101,Consumer,No,2052
+2788,106,Consumer,No,2062
+2795,103,Corporate,No,2022
+2784,104,Corporate,No,2073
+2792,100,Corporate,No,2007
+2794,109,Corporate,Yes,2031
+2710,100,Consumer,No,2092
+2791,101,Corporate,No,2095
+2796,103,Corporate,No,2020
+2801,105,Home Office,No,2048
+2797,101,Consumer,No,2056
+2761,108,Corporate,No,2053
+2763,105,Corporate,No,2094
+2799,100,Small Business,No,2002
+2804,103,Small Business,No,2088
+2803,105,Small Business,No,2066
+2805,105,Small Business,No,2060
+2807,104,Small Business,No,2073
+2809,106,Small Business,No,2017
+2808,101,Small Business,No,2006
+2767,107,Corporate,No,2008
+2806,104,Small Business,No,2031
+2812,100,Corporate,No,2018
+2813,103,Corporate,Yes,2040
+2810,105,Small Business,No,2026
+2815,102,Corporate,No,2045
+2816,103,Corporate,No,2092
+2827,105,Corporate,No,2026
+2823,103,Corporate,No,2025
+2817,107,Corporate,No,2084
+2828,100,Corporate,No,2073
+2820,103,Home Office,No,2058
+2819,103,Home Office,No,2049
+2830,105,Home Office,No,2005
+2825,104,Consumer,No,2043
+2831,102,Home Office,No,2027
+2822,104,Corporate,No,2024
+2835,104,Small Business,No,2011
+2837,108,Home Office,No,2007
+2838,106,Home Office,No,2034
+2841,104,Corporate,No,2031
+2834,107,Small Business,Yes,2018
+2846,101,Corporate,No,2024
+2842,101,Corporate,Yes,2019
+2833,108,Small Business,No,2009
+2847,100,Corporate,No,2022
+2843,102,Corporate,No,2047
+2840,103,Corporate,No,2039
+2853,104,Consumer,No,2009
+2848,100,Corporate,No,2090
+2856,108,Consumer,No,2017
+2854,109,Consumer,No,2099
+2858,106,Corporate,No,2012
+2850,103,Consumer,No,2034
+2851,105,Consumer,No,2058
+2855,101,Corporate,No,2005
+2859,100,Corporate,No,2065
+2862,109,Corporate,No,2045
+2868,107,Corporate,Yes,2026
+2860,104,Corporate,No,2091
+2865,109,Corporate,Yes,2050
+2867,100,Corporate,No,2067
+2871,101,Corporate,No,2094
+2864,101,Corporate,No,2033
+2870,101,Corporate,No,2000
+2877,103,Consumer,No,2042
+2880,104,Small Business,No,2019
+2869,102,Corporate,Yes,2042
+2861,109,Corporate,Yes,2061
+2866,102,Corporate,No,2067
+2878,105,Consumer,No,2093
+2883,105,Consumer,No,2067
+2881,103,Small Business,No,2024
+2884,101,Consumer,No,2019
+2885,109,Consumer,Yes,2076
+2873,108,Small Business,No,2017
+2874,100,Home Office,No,2043
+2886,104,Consumer,No,2032
+2889,106,Corporate,No,2020
+2890,106,Corporate,Yes,2079
+2882,107,Consumer,No,2087
+2893,105,Consumer,No,2023
+2891,105,Corporate,No,2015
+2887,108,Consumer,No,2088
+2894,100,Consumer,No,2085
+2900,103,Home Office,No,2036
+2896,100,Home Office,Yes,2043
+2903,107,Small Business,No,2072
+2892,109,Consumer,Yes,2084
+2905,107,Home Office,No,2039
+2901,104,Home Office,No,2083
+2908,102,Home Office,Yes,2057
+2876,104,Consumer,No,2015
+2897,103,Home Office,No,2069
+2907,100,Home Office,No,2042
+2911,107,Home Office,No,2075
+2917,104,Home Office,No,2069
+2912,100,Home Office,Yes,2071
+2913,104,Home Office,No,2024
+2915,100,Home Office,Yes,2084
+2919,101,Home Office,No,2006
+2916,107,Home Office,No,2023
+2922,101,Consumer,No,2044
+2920,103,Home Office,No,2002
+2918,107,Home Office,Yes,2016
+2926,103,Corporate,No,2049
+2927,100,Consumer,No,2025
+2932,108,Small Business,No,2037
+2923,103,Consumer,No,2097
+2933,103,Small Business,No,2085
+2924,103,Consumer,No,2077
+2935,103,Small Business,No,2083
+2939,100,Small Business,No,2032
+2936,107,Small Business,No,2032
+2941,101,Small Business,No,2041
+2938,108,Small Business,Yes,2093
+2945,109,Corporate,No,2005
+2947,106,Consumer,No,2005
+2928,103,Consumer,No,2035
+2937,103,Small Business,No,2097
+2942,108,Small Business,Yes,2018
+2934,104,Corporate,No,2048
+2944,101,Corporate,No,2021
+2955,109,Consumer,No,2052
+2951,108,Corporate,No,2099
+2958,104,Corporate,No,2059
+2940,108,Small Business,Yes,2098
+2963,109,Consumer,No,2004
+2899,100,Home Office,No,2090
+2952,108,Corporate,No,2010
+2960,101,Corporate,No,2051
+2948,105,Consumer,No,2081
+2964,104,Consumer,No,2000
+2954,103,Consumer,No,2078
+2966,109,Small Business,No,2010
+2962,107,Consumer,No,2056
+2949,100,Consumer,No,2004
+2972,108,Home Office,No,2097
+2957,101,Corporate,No,2085
+2968,107,Small Business,No,2097
+2969,100,Small Business,No,2048
+2970,107,Small Business,No,2072
+2974,102,Home Office,Yes,2006
+2976,103,Small Business,No,2096
+2983,109,Corporate,No,2028
+2979,103,Corporate,No,2030
+2973,101,Home Office,No,2079
+2981,101,Corporate,No,2084
+2985,101,Corporate,No,2048
+2989,100,Home Office,No,2100
+2998,102,Corporate,No,2012
+2910,107,Home Office,No,2024
+2930,104,Small Business,No,2070
+2931,101,Small Business,No,2057
+2984,100,Corporate,No,2075
+2991,106,Home Office,Yes,2004
+2980,106,Corporate,No,2068
+2988,109,Home Office,Yes,2086
+2992,104,Home Office,No,2053
+2996,105,Small Business,No,2099
+3003,101,Home Office,No,2005
+2999,104,Consumer,No,2031
+3004,107,Corporate,Yes,2016
+3005,108,Corporate,No,2028
+2994,102,Small Business,No,2091
+2977,106,Small Business,No,2068
+2987,105,Home Office,No,2064
+3015,105,Corporate,Yes,2077
+3000,105,Consumer,No,2078
+3006,104,Corporate,No,2074
+3011,109,Corporate,Yes,2048
+2995,109,Small Business,No,2029
+3017,105,Corporate,No,2014
+3020,109,Corporate,No,2034
+3008,108,Home Office,No,2056
+3012,103,Corporate,Yes,2062
+3018,106,Corporate,No,2025
+3022,106,Corporate,No,2004
+3009,106,Home Office,No,2013
+3025,108,Home Office,No,2086
+3030,109,Small Business,No,2078
+3001,108,Consumer,No,2099
+3032,103,Small Business,No,2088
+3013,101,Corporate,No,2057
+3019,100,Corporate,No,2016
+3023,108,Corporate,No,2082
+3027,108,Consumer,No,2044
+3029,108,Small Business,No,2083
+3031,103,Small Business,No,2068
+3034,108,Home Office,No,2010
+3039,101,Corporate,No,2047
+3035,101,Home Office,No,2023
+3036,103,Home Office,No,2054
+3010,102,Corporate,No,2077
+3046,102,Small Business,No,2034
+3042,104,Small Business,No,2078
+3044,107,Corporate,No,2086
+3045,108,Small Business,No,2017
+3049,107,Corporate,No,2063
+3041,104,Corporate,No,2068
+3051,106,Corporate,No,2087
+3026,104,Consumer,No,2081
+3050,105,Corporate,No,2088
+3053,101,Corporate,No,2009
+3048,100,Corporate,No,2048
+3055,108,Corporate,No,2047
+3057,100,Corporate,No,2082
+3056,104,Corporate,No,2073
+3054,106,Corporate,No,2065
+3038,104,Corporate,Yes,2001
+3066,109,Consumer,No,2024
+3067,100,Consumer,No,2087
+3063,108,Consumer,Yes,2031
+3068,101,Consumer,No,2016
+3058,106,Corporate,No,2067
+3069,107,Consumer,No,2012
+3060,100,Small Business,Yes,2087
+3075,105,Corporate,Yes,2048
+3074,103,Corporate,No,2001
+3073,100,Corporate,No,2012
+3064,100,Consumer,No,2041
+3071,108,Corporate,No,2045
+3077,100,Small Business,No,2063
+3083,102,Small Business,No,2043
+3084,107,Small Business,Yes,2083
+3078,101,Small Business,Yes,2068
+3086,106,Consumer,Yes,2063
+3079,100,Small Business,Yes,2042
+3089,108,Corporate,No,2062
+3091,106,Corporate,No,2009
+3076,101,Small Business,No,2021
+3043,105,Corporate,No,2095
+3062,100,Consumer,No,2008
+3094,107,Consumer,Yes,2058
+3096,101,Consumer,No,2094
+3092,100,Corporate,No,2039
+3101,107,Consumer,No,2082
+3087,101,Consumer,No,2062
+3106,104,Home Office,Yes,2049
+3098,108,Consumer,No,2029
+3095,104,Consumer,No,2055
+3072,104,Corporate,No,2047
+3102,104,Consumer,No,2085
+3103,104,Home Office,No,2007
+3104,103,Home Office,No,2055
+3105,108,Home Office,No,2051
+3108,100,Small Business,Yes,2072
+3100,104,Consumer,No,2100
+3110,102,Small Business,No,2062
+3081,100,Home Office,Yes,2056
+3114,101,Corporate,No,2071
+3119,103,Corporate,Yes,2086
+3120,105,Home Office,No,2016
+3109,103,Small Business,No,2027
+3112,106,Corporate,No,2030
+3113,107,Corporate,No,2061
+3126,104,Home Office,No,2091
+3116,101,Home Office,No,2049
+3118,100,Corporate,No,2057
+3125,105,Home Office,No,2041
+3128,109,Small Business,No,2022
+3136,105,Consumer,No,2059
+3124,108,Home Office,No,2004
+3121,100,Home Office,No,2095
+3123,102,Home Office,No,2054
+3133,108,Corporate,Yes,2005
+3129,101,Corporate,Yes,2097
+3135,107,Corporate,No,2014
+3141,108,Consumer,Yes,2015
+3137,108,Corporate,No,2097
+3132,106,Corporate,Yes,2001
+3134,101,Corporate,Yes,2084
+3131,104,Home Office,No,2016
+3146,106,Corporate,No,2053
+3143,105,Consumer,No,2085
+3149,105,Corporate,No,2045
+3139,104,Home Office,No,2057
+3151,105,Corporate,Yes,2035
+3138,101,Corporate,No,2035
+3153,106,Consumer,No,2023
+3145,106,Corporate,No,2043
+3154,106,Corporate,No,2035
+3155,109,Corporate,Yes,2001
+3162,109,Corporate,No,2058
+3163,101,Corporate,No,2036
+3156,104,Consumer,No,2014
+3165,100,Small Business,No,2035
+3168,105,Small Business,No,2082
+3157,101,Consumer,No,2079
+3170,100,Corporate,No,2008
+3169,103,Small Business,No,2085
+3142,101,Consumer,No,2006
+3166,107,Small Business,No,2072
+3176,104,Consumer,No,2061
+3167,105,Corporate,No,2064
+3173,103,Home Office,No,2028
+3148,103,Corporate,No,2096
+3177,109,Consumer,No,2057
+3181,108,Corporate,No,2093
+3172,105,Home Office,No,2023
+3179,105,Corporate,No,2080
+3159,106,Corporate,No,2042
+3174,107,Home Office,No,2013
+3188,109,Consumer,No,2028
+3180,100,Corporate,No,2014
+3186,103,Consumer,No,2020
+3160,104,Corporate,No,2009
+3187,101,Small Business,No,2086
+3183,106,Home Office,No,2034
+3192,100,Corporate,No,2091
+3190,107,Corporate,No,2080
+3196,106,Home Office,Yes,2039
+3194,107,Consumer,No,2050
+3184,108,Home Office,No,2011
+3191,102,Corporate,No,2073
+3201,108,Consumer,Yes,2060
+3209,105,Corporate,No,2040
+3206,106,Consumer,Yes,2029
+3214,101,Home Office,Yes,2042
+3198,108,Home Office,No,2044
+3200,100,Consumer,No,2053
+3195,103,Consumer,No,2055
+3203,105,Corporate,No,2003
+3215,101,Home Office,No,2038
+3222,103,Corporate,No,2051
+3217,107,Home Office,No,2017
+3208,105,Corporate,No,2006
+3211,102,Corporate,No,2098
+3220,109,Consumer,No,2055
+3218,107,Home Office,Yes,2098
+3225,102,Small Business,No,2013
+3228,107,Consumer,Yes,2061
+3229,100,Small Business,No,2095
+3233,101,Consumer,No,2082
+3235,104,Home Office,No,2082
+3221,106,Corporate,No,2055
+3236,105,Home Office,No,2100
+3226,106,Small Business,No,2039
+3239,107,Corporate,No,2077
+3238,104,Corporate,No,2012
+3243,108,Small Business,No,2086
+3230,106,Small Business,No,2023
+3231,101,Small Business,No,2004
+3241,107,Small Business,No,2095
+3248,100,Small Business,No,2003
+3249,101,Corporate,No,2097
+3242,103,Small Business,No,2085
+3251,107,Corporate,Yes,2032
+3197,100,Home Office,Yes,2100
+3250,106,Small Business,Yes,2016
+3244,100,Small Business,No,2076
+3246,100,Small Business,Yes,2057
+3255,105,Home Office,No,2045
+3245,106,Small Business,No,2057
+3247,107,Small Business,No,2097
+3258,102,Consumer,No,2040
+3262,108,Consumer,No,2052
+3205,106,Consumer,No,2064
+3252,107,Small Business,No,2044
+3254,106,Home Office,Yes,2029
+3264,106,Corporate,No,2010
+3259,104,Consumer,No,2008
+3257,105,Consumer,No,2016
+3270,106,Corporate,No,2012
+3261,107,Consumer,Yes,2039
+3266,107,Corporate,Yes,2074
+3274,104,Small Business,No,2045
+3268,101,Corporate,No,2087
+3275,101,Home Office,Yes,2059
+3272,105,Home Office,No,2046
+3276,107,Small Business,No,2045
+3280,104,Home Office,No,2037
+3283,105,Corporate,No,2053
+3282,100,Consumer,No,2090
+3265,104,Corporate,No,2006
+3287,101,Small Business,No,2025
+3288,108,Small Business,No,2012
+3284,104,Corporate,No,2045
+3213,101,Home Office,No,2079
+3269,108,Corporate,No,2038
+3292,101,Corporate,No,2087
+3290,106,Corporate,No,2055
+3285,108,Consumer,No,2049
+3224,100,Small Business,No,2057
+3273,106,Small Business,No,2024
+3279,107,Home Office,No,2014
+3297,103,Corporate,No,2008
+3291,105,Corporate,No,2028
+3295,108,Corporate,No,2036
+3293,104,Corporate,No,2034
+3296,103,Corporate,No,2046
+3304,107,Home Office,Yes,2062
+3310,104,Small Business,No,2066
+3289,104,Corporate,No,2057
+3299,105,Consumer,No,2005
+3307,103,Small Business,No,2072
+3313,106,Small Business,No,2027
+3314,104,Small Business,No,2059
+3300,100,Consumer,No,2050
+3306,105,Small Business,No,2057
+3311,100,Small Business,No,2018
+3294,106,Corporate,Yes,2044
+3321,105,Small Business,No,2038
+3315,104,Small Business,No,2035
+3312,107,Small Business,No,2090
+3302,101,Home Office,No,2023
+3322,109,Small Business,No,2086
+3317,105,Small Business,No,2027
+3308,106,Small Business,No,2063
+3316,101,Small Business,No,2073
+3267,100,Corporate,No,2064
+3324,101,Consumer,No,2068
+3319,100,Small Business,No,2059
+3320,104,Small Business,No,2036
+3325,103,Consumer,No,2025
+3330,101,Corporate,No,2001
+3331,100,Corporate,No,2016
+3333,108,Home Office,No,2074
+3327,108,Small Business,No,2045
+3277,104,Small Business,No,2084
+3335,100,Home Office,No,2057
+3337,100,Consumer,No,2036
+3338,105,Consumer,No,2065
+3303,105,Home Office,No,2050
+3343,101,Home Office,No,2037
+3328,106,Small Business,No,2097
+3339,101,Consumer,No,2019
+3309,105,Small Business,No,2081
+3344,101,Home Office,No,2068
+3340,100,Consumer,Yes,2005
+3348,107,Consumer,No,2003
+3355,107,Corporate,Yes,2035
+3363,105,Consumer,No,2023
+3366,105,Home Office,No,2001
+3345,101,Home Office,No,2071
+3350,103,Small Business,No,2053
+3356,104,Corporate,No,2022
+3347,101,Consumer,No,2096
+3351,104,Small Business,No,2081
+3334,100,Home Office,No,2064
+3341,106,Consumer,No,2038
+3352,107,Small Business,Yes,2021
+3368,108,Home Office,No,2019
+3367,101,Home Office,No,2088
+3358,103,Home Office,No,2024
+3361,101,Home Office,No,2083
+3342,100,Home Office,Yes,2054
+3354,107,Corporate,No,2045
+3359,104,Home Office,Yes,2074
+3369,102,Home Office,No,2012
+3360,101,Home Office,Yes,2036
+3378,108,Corporate,Yes,2031
+3380,104,Home Office,No,2055
+3374,100,Corporate,Yes,2007
+3381,104,Corporate,No,2100
+3379,106,Corporate,No,2099
+3364,109,Consumer,No,2015
+3382,104,Corporate,No,2097
+3371,102,Home Office,No,2092
+3386,100,Corporate,No,2098
+3388,107,Corporate,No,2073
+3389,106,Corporate,No,2099
+3394,101,Consumer,No,2021
+3375,100,Home Office,No,2065
+3397,109,Small Business,Yes,2098
+3396,106,Corporate,No,2084
+3376,108,Home Office,No,2069
+3400,106,Small Business,No,2086
+3372,106,Home Office,No,2015
+3399,105,Small Business,No,2015
+3384,100,Corporate,No,2069
+3385,107,Corporate,No,2067
+3398,109,Corporate,No,2013
+3403,107,Consumer,No,2044
+3390,101,Corporate,No,2053
+3393,106,Consumer,No,2022
+3391,105,Corporate,No,2093
+3402,100,Consumer,No,2040
