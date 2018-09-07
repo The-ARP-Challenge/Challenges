@@ -1,40 +1,54 @@
-# Challenge 001
-#
+"""
+Challenge 001 - Join to Range
+Author: Philip Mannering
+Date: 2018-09-07
+"""
 
 
-#%% Read the files
-
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
+# Read the files
+ranges = pd.read_csv("./files/range.csv")
+customer = pd.read_csv("./files/customer.csv",  index_col=-1)
+output = pd.read_csv("../files/output.csv")
 
-df = pd.read_csv("./files/range.csv")
-customer = pd.read_csv("./files/customer.csv")
+#%% Generate the rows
 
+df = ranges
 
-#%% Generate rows within the DataFrame
+# Split out start and end of range and add to the dataframe
+df[['rng1','rng2']] = df.Range.str.extract('(\d+)-(\d+)').astype(int)
 
-d = df
+# Transpose the new columns
+df = df.melt(id_vars=df.columns[:-2])
 
-d['rng1'] = d['Range'].str.extract('(\d+)')
-d['rng2'] = d['Range'].str.extract('-(\d+)')
+# Set the index to value
+df = df.set_index('value').sort_index()
 
-d = d.melt(id_vars=d.columns[:-2])
-
-d['value'] = d['value'].astype('int32')
-d = d.set_index('value', drop=False).sort_index()
-
-d = d.reindex(range(d.value.min(),d.value.max()+1))
+# Expand range - this is the generate rows bit
+df = df.reindex(range(df.index.min(),df.index.max()+1), method = 'ffill')
 
 # =============================================================================
 # Should really fill in the range by this group
-# dg = d.groupby('Region')
-# d = dg.apply(lambda x: x.set_index(x['value'])
+# dg = df.groupby('Region')
+# df = dg.apply(lambda x: x.set_index(x['value'])
 #             .reindex(range(x.value.min(),x.value.max()+1)))
 # =============================================================================
 
-d = d.fillna(method = 'ffill')
-d.value = d.index
+#df = df.reset_index().drop(columns = ['Range','Expect Revenue','variable'])
+
+#%% Join
+df = df.join(customer)
+
+#%% Summarize
+
+# Fields to groupby 
+key = ['Region','Sales Rep', 'Responder']
+
+# Group
+df = df.groupby(key, as_index=False)['Customer ID'].count()
+df = df.rename(columns={'Customer ID':'Count'})
 
 
+#%% Check answer
+(df == output).all()
