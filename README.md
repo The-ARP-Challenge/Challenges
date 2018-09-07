@@ -9,6 +9,8 @@ The current members are:
 - Alex Jones
 - Rachel Phang
 - David Sanchez Martin
+- William Guicheney
+- Jamie Gough
 
 The top 10 solvers are:
 
