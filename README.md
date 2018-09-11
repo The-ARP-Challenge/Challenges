@@ -6,6 +6,7 @@ We hope to go through some of the solutions on Python Mondays.
 
 ## Challenges
 |Challenge Number|Challenge Name|Level of Difficulty|Main Subject|
+|--- |--- |--- |--- |
 |1|Challenge #1: Join to Range|Intermediate|Data Preparation|
 |2|Challenge #2: Preparing Delimited Data|Beginner|Data Parsing|
 |3|Challenge #3: Running Averages|Intermediate|Data Preparation|
@@ -138,6 +139,7 @@ We hope to go through some of the solutions on Python Mondays.
 |130|Challenge #130: Is There an Echo in Here?|Intermediate|Data Parsing|
 |131|Challenge #131: Think Like a CSE... The R Error Message: cannot allocate vector of size...|Advanced|Predictive|
 |132|Challenge #132: When Will Community Hit 1,000,000 Posts?|Intermediate|Predictive|
+
 
 The current members are:
 - Philip Mannering
