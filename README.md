@@ -112,19 +112,16 @@ We hope to go through some of the solutions on Python Mondays.
 </details>
 
 ## Participants
-<details><summary>Current Members</summary>
 - Philip Mannering
 - Alex Jones
 - Rachel Phang
 - David Sanchez Martin
 - William Guicheney
 - Jamie Gough
-</details>
 
 
 
 The top 10 solvers are:
-
-[add table here]
+** Create script that tallies up everyone's contribution and create table here! **
 
 Happy Coding :)
