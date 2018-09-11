@@ -107,39 +107,6 @@ We hope to go through some of the solutions on Python Mondays.
 |98|Challenge #98: SANTALYTICS 2017 - Part 2|Intermediate|Data Analysis|
 |99|Challenge #99: SANTALYTICS 2017 - Part 3|Advanced|Data Analysis|
 |100|Challenge #100: Find Ned!|Advanced|Spatial|
-|101|Challenge #101: The Search for Powder|Intermediate|Data Analysis|
-|102|Challenge #102: Tabulating Flu Data|Beginner|Data Preparation|
-|103|Challenge #103: Just another game?|Advanced|Predictive|
-|104|Challenge #104: Love's not the only thing in the air!|Beginner|Data Analysis|
-|105|Challenge #105: Think Like a CSE/u2026 Tools are missing!|Intermediate|Macros|
-|106|Challenge #106: How Long were the Lights On?|Beginner|Data Analysis|
-|107|Challenge #107: Plot Employment Rates by Gender in the US|Advanced|Data Analysis|
-|108|Challenge #108: HeLa Cell Multiplication|Intermediate|Data Analysis|
-|109|Challenge #109: Women in Government Around the World|Intermediate|Data Preparation|
-|110|Challenge #110:  Think Like a CSE...Reduce the manual inputs!|Intermediate|MacrosApps|
-|111|Challenge #111: Make a Weekly Challenge Dream Team!|Advanced|Data Analysis|
-|112|Challenge #112: Organizing Survey Data|Intermediate|Data Preparation|
-|113|Challenge #113: Interpolating Spatial Grid Values|Advanced|Spatial|
-|114|Challenge #114: Think Like a CSE...Remove the extra delimiter from the JSON output|Intermediate|Data Preparation|
-|115|Challenge #115: Let's get crafty!|Intermediate|Apps|
-|116|Challenge #116: A Symphony of Parsing Tools!|Advanced|Data Parsing|
-|117|Challenge #117: Credit/Debit Midpoints|Intermediate|Data Analysis|
-|118|Challenge #118: Think Like a CSE - A not-so-wild-wildcard input!|Intermediate|Data Preparation|
-|119|Challenge #119: Inspire Weekly Challenge|Intermediate|Data Analysis|
-|120|Challenge #120: Popular Baby Names|Beginner|Data Analysis|
-|121|Challenge #121: World Cup 2018!|Beginner|Data Cleansing|
-|122|Challenge #122: Think Like a CSE...Ranking Data|Intermediate|Data Analysis|
-|123|Challenge #123: When will Rabbits Rule the World?|Intermediate|Data Analysis|
-|124|Challenge #124: Air Transport Network Analysis|Advanced|Predictive|
-|125|Challenge #125: US Grand Prix Lap 1 - Data Prep|Beginner|Data Preparation|
-|126|Challenge #126: Fill in the [Date] Gaps|Intermediate|Data Preparation|
-|127|Challenge #127: US Grand Prix Lap 2 - Employee Retention|Intermediate|Predictive|
-|128|Challenge #128: Settle the Score|Beginner|Data Analysis|
-|129|Challenge #129: US Grand Prix Lap 3 - Where to Host an Event|Intermediate|Spatial|
-|130|Challenge #130: Is There an Echo in Here?|Intermediate|Data Parsing|
-|131|Challenge #131: Think Like a CSE... The R Error Message: cannot allocate vector of size...|Advanced|Predictive|
-|132|Challenge #132: When Will Community Hit 1,000,000 Posts?|Intermediate|Predictive|
-
 
 The current members are:
 - Philip Mannering
