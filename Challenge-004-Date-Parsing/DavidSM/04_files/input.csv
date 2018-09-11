@@ -1,0 +1,18 @@
+Field_1
+He who sleeps on the floor will not fall off the bed.Robert Gronock16-APR-2005This is a valid record.
+"After all is said and done, more is said than doneAnonymous09-JAN-1856Oops! The RandomInt field is missing.  This record should be rejected into a bad file."
+"I want to see you shoot the way you shoutTeddy Roosevelt Nov 16, 1900This record is valid but the date is in MMMbDD,bYYYY format."
+get someone else to do it.15-APR-1944This record is valid but has a carriage return in the middle of the quote.
+Why do they call it rush hour when nothing moves?Mork27-JUN-70This record is valid but has only a two-year date.
+"I'm taking the Ryanair approach to it: subcontracting everythingMichael O'Leary23-MAY-2011This record is valid and has a single quote in the two text fields."
+"I Xeroxed a mirror.  Now I have an extra Xerox machine.""Steven Wright30-JUN-06This record is valid but has a trailing double quote that should be part fo the text field."
+"Freidrich Engels01-AUG-08This record is missing the first field, the quote.  This record should be rejected in a bad file."
+"'He's so old his social security number is two digits.'Brian Morgan Jan 5 2000This record is valid but the quote is surrounded by single quotes, the date is an unconventional format and the integer has a fractional part."
+"""I was the best man at the wedding.So why is she marrying him?""Jerry Seinfeld09-July-2001This record is valid but has a carriage return in the quote and the month is fully specified in the date."
+"""When my wife was asked, ""Do you take this man for richer or poorer..."" she answered, ""For richer!""""Anonymous21-May-07This record is valid."
+"""These are the continuing voyagesTo boldly split infinitives""Gene Roddenberry16-SEP-69This record is valid but contains the record separator within quotes."
+"""The best cure for insomnia is to get a lot of sleep.W.C.Fields4-SEP-00The quote field has a beginning but not a trailing double quote.  This record could be rejected."
+"I don't even butter my bread; I consider that cooking.,Katherine Cebrian, 08-may-2003,This record uses commas instead of pipes as the field delimiter and can be rejected."
+"It matters not whether you win or lose; what mattes is whether I win or lose.Darrin Weinberg21-MAR-2005This is a valid record but the integer starts off with a zero, which shouldn't be confused for an octal number."
+Smoking is one of the leading causes of statistics.Fletcher Knebel24-OCT-1989This record contains an invalid RandomInt.
+"I tried to think but nothing happened!""Curly""'11-AUG-1935'This is a valid record but the fields are sometimes contained in quotes."
