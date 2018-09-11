@@ -111,14 +111,17 @@ We hope to go through some of the solutions on Python Mondays.
 |100|Challenge #100: Find Ned!|Advanced|Spatial|
 </details>
 
-
-The current members are:
+## Participants
+<details><summary>Current Members</summary>
 - Philip Mannering
 - Alex Jones
 - Rachel Phang
 - David Sanchez Martin
 - William Guicheney
 - Jamie Gough
+</details>
+
+
 
 The top 10 solvers are:
 
