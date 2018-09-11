@@ -1,0 +1,3 @@
+A HR department has a defined hierarchy for job identification across the organization. Depending on the job, the position within the hierarchy can change.
+
+The goal is to create an analytical application that allows a HR rep to enter a position # (in this example, 33333) and return all records where the position is found within the hierarchy system.
