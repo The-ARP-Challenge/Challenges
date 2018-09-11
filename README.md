@@ -5,6 +5,7 @@ This project was started on 2018-08-28 and the aim is to complete a challenge ev
 We hope to go through some of the solutions on Python Mondays.
 
 ## Challenges
+<details><summary>Alteryx Weekly Challenges</summary>
 |Challenge Number|Challenge Name|Level of Difficulty|Main Subject|
 |--- |--- |--- |--- |
 |1|Challenge #1: Join to Range|Intermediate|Data Preparation|
@@ -107,6 +108,7 @@ We hope to go through some of the solutions on Python Mondays.
 |98|Challenge #98: SANTALYTICS 2017 - Part 2|Intermediate|Data Analysis|
 |99|Challenge #99: SANTALYTICS 2017 - Part 3|Advanced|Data Analysis|
 |100|Challenge #100: Find Ned!|Advanced|Spatial|
+</details>
 
 The current members are:
 - Philip Mannering
