@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.3">
+  <Nodes>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="60" y="306" width="198" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Input</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="690" y="126" width="216" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Output</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="54" width="324" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="4" />
+          <BG_Image>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</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="450" y="70" width="300" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Weekly Challenge #4</Text>
+          <Font name="Lato" size="16.2" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="59" y="114" width="612" height="168" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[A dataset contains a text field that has a date embedded within the text. The problem is that the date is represented a few different ways. For example:
+
+•	16-APR-2005
+•	Nov•16,•1900
+•	4-SEP-00
+•	Jan•5•2000
+
+The goal is to create a new Date/Time field populated with the dates contained within the text field. You will also need to standardize the dates so that they are all formatted the same.
+]]></Text>
+          <Font name="Lato" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="126" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="17" />
+          <Fields>
+            <Field name="Field_1" />
+          </Fields>
+          <Data>
+            <r>
+              <c>He who sleeps on the floor will not fall off the bed.Robert Gronock16-APR-2005This is a valid record.</c>
+            </r>
+            <r>
+              <c>After all is said and done, more is said than doneAnonymous09-JAN-1856Oops! The RandomInt field is missing.  This record should be rejected into a bad file.</c>
+            </r>
+            <r>
+              <c>I want to see you shoot the way you shoutTeddy Roosevelt Nov 16, 1900This record is valid but the date is in MMMbDD,bYYYY format.</c>
+            </r>
+            <r>
+              <c>get someone else to do it.15-APR-1944This record is valid but has a carriage return in the middle of the quote.</c>
+            </r>
+            <r>
+              <c>Why do they call it rush hour when nothing moves?Mork27-JUN-70This record is valid but has only a two-year date.</c>
+            </r>
+            <r>
+              <c>I'm taking the Ryanair approach to it: subcontracting everythingMichael O'Leary23-MAY-2011This record is valid and has a single quote in the two text fields.</c>
+            </r>
+            <r>
+              <c>I Xeroxed a mirror.  Now I have an extra Xerox machine."Steven Wright30-JUN-06This record is valid but has a trailing double quote that should be part fo the text field.</c>
+            </r>
+            <r>
+              <c>Freidrich Engels01-AUG-08This record is missing the first field, the quote.  This record should be rejected in a bad file.</c>
+            </r>
+            <r>
+              <c>'He's so old his social security number is two digits.'Brian Morgan Jan 5 2000This record is valid but the quote is surrounded by single quotes, the date is an unconventional format and the integer has a fractional part.</c>
+            </r>
+            <r>
+              <c>"I was the best man at the wedding.So why is she marrying him?"Jerry Seinfeld09-July-2001This record is valid but has a carriage return in the quote and the month is fully specified in the date.</c>
+            </r>
+            <r>
+              <c>"When my wife was asked, "Do you take this man for richer or poorer..." she answered, "For richer!""Anonymous21-May-07This record is valid.</c>
+            </r>
+            <r>
+              <c>"These are the continuing voyagesTo boldly split infinitives"Gene Roddenberry16-SEP-69This record is valid but contains the record separator within quotes.</c>
+            </r>
+            <r>
+              <c>"The best cure for insomnia is to get a lot of sleep.W.C.Fields4-SEP-00The quote field has a beginning but not a trailing double quote.  This record could be rejected.</c>
+            </r>
+            <r>
+              <c>I don't even butter my bread; I consider that cooking.,Katherine Cebrian, 08-may-2003,This record uses commas instead of pipes as the field delimiter and can be rejected.</c>
+            </r>
+            <r>
+              <c>It matters not whether you win or lose; what mattes is whether I win or lose.Darrin Weinberg21-MAR-2005This is a valid record but the integer starts off with a zero, which shouldn't be confused for an octal number.</c>
+            </r>
+            <r>
+              <c>Smoking is one of the leading causes of statistics.Fletcher Knebel24-OCT-1989This record contains an invalid RandomInt.</c>
+            </r>
+            <r>
+              <c>I tried to think but nothing happened!"Curly"'11-AUG-1935'This is a valid record but the fields are sometimes contained in quotes.</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="52">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="715" y="163" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="17" />
+          <Fields>
+            <Field name="Field_1" />
+            <Field name="DateTime_Out" />
+          </Fields>
+          <Data>
+            <r>
+              <c>He who sleeps on the floor will not fall off the bed.Robert Gronock16-APR-2005This is a valid record.</c>
+              <c>2005-04-16</c>
+            </r>
+            <r>
+              <c>After all is said and done, more is said than doneAnonymous09-JAN-1856Oops! The RandomInt field is missing.  This record should be rejected into a bad file.</c>
+              <c>1856-01-09</c>
+            </r>
+            <r>
+              <c>I want to see you shoot the way you shoutTeddy Roosevelt Nov 16, 1900This record is valid but the date is in MMMbDD,bYYYY format.</c>
+              <c>1900-11-16</c>
+            </r>
+            <r>
+              <c>get someone else to do it.15-APR-1944This record is valid but has a carriage return in the middle of the quote.</c>
+              <c>1944-04-15</c>
+            </r>
+            <r>
+              <c>Why do they call it rush hour when nothing moves?Mork27-JUN-70This record is valid but has only a two-year date.</c>
+              <c>1970-06-27</c>
+            </r>
+            <r>
+              <c>I'm taking the Ryanair approach to it: subcontracting everythingMichael O'Leary23-MAY-2011This record is valid and has a single quote in the two text fields.</c>
+              <c>2011-05-23</c>
+            </r>
+            <r>
+              <c>I Xeroxed a mirror.  Now I have an extra Xerox machine."Steven Wright30-JUN-06This record is valid but has a trailing double quote that should be part fo the text field.</c>
+              <c>2006-06-30</c>
+            </r>
+            <r>
+              <c>Freidrich Engels01-AUG-08This record is missing the first field, the quote.  This record should be rejected in a bad file.</c>
+              <c>2008-08-01</c>
+            </r>
+            <r>
+              <c>'He's so old his social security number is two digits.'Brian Morgan Jan 5 2000This record is valid but the quote is surrounded by single quotes, the date is an unconventional format and the integer has a fractional part.</c>
+              <c>2000-01-05</c>
+            </r>
+            <r>
+              <c>"I was the best man at the wedding.So why is she marrying him?"Jerry Seinfeld09-July-2001This record is valid but has a carriage return in the quote and the month is fully specified in the date.</c>
+              <c>2001-07-09</c>
+            </r>
+            <r>
+              <c>"When my wife was asked, "Do you take this man for richer or poorer..." she answered, "For richer!""Anonymous21-May-07This record is valid.</c>
+              <c>2007-05-21</c>
+            </r>
+            <r>
+              <c>"These are the continuing voyagesTo boldly split infinitives"Gene Roddenberry16-SEP-69This record is valid but contains the record separator within quotes.</c>
+              <c>1969-09-16</c>
+            </r>
+            <r>
+              <c>"The best cure for insomnia is to get a lot of sleep.W.C.Fields4-SEP-00The quote field has a beginning but not a trailing double quote.  This record could be rejected.</c>
+              <c>2000-09-04</c>
+            </r>
+            <r>
+              <c>I don't even butter my bread; I consider that cooking.,Katherine Cebrian, 08-may-2003,This record uses commas instead of pipes as the field delimiter and can be rejected.</c>
+              <c>2003-05-08</c>
+            </r>
+            <r>
+              <c>It matters not whether you win or lose; what mattes is whether I win or lose.Darrin Weinberg21-MAR-2005This is a valid record but the integer starts off with a zero, which shouldn't be confused for an octal number.</c>
+              <c>2005-03-21</c>
+            </r>
+            <r>
+              <c>Smoking is one of the leading causes of statistics.Fletcher Knebel24-OCT-1989This record contains an invalid RandomInt.</c>
+              <c>1989-10-24</c>
+            </r>
+            <r>
+              <c>I tried to think but nothing happened!"Curly"'11-AUG-1935'This is a valid record but the fields are sometimes contained in quotes.</c>
+              <c>1935-08-11</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="53">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="811" y="163" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_10872_fc1367cfba2e45f7b638d8f8f88c3382_\Engine_6624_fbb7845dd0e744b1846fafe1e38099b7_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="79">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+        <Position x="330" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Field_1</Field>
+          <RegExExpression value="(\d+-\w+-\d+|\w+\s\d+,?\s\d+)" />
+          <CaseInsensitve value="True" />
+          <Method>ParseComplex</Method>
+          <Replace expression="">
+            <CopyUnmatched value="True" />
+          </Replace>
+          <ParseSimple>
+            <SplitToRows value="False" />
+            <RootName>Field_1</RootName>
+            <NumFields value="1" />
+            <ErrorHandling>Warn</ErrorHandling>
+          </ParseSimple>
+          <ParseComplex>
+            <Field field="RegExOut1" type="V_String" size="220" />
+          </ParseComplex>
+          <Match>
+            <Field>Field_1_Matched</Field>
+            <ErrorUnmatched value="False" />
+          </Match>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Parse out the date text</AnnotationText>
+          <DefaultAnnotationText>Parse:
+(\d+-\w+-\d+|\w+\s\d+,?\s\d+)</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+    </Node>
+    <Node ToolID="81">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="474" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeParse([RegExOut1],'%d-%b-%Y') +&#xA;DateTimeParse([RegExOut1],'%b %d, %Y') +&#xA;DateTimeParse([RegExOut1],'%b %d %Y')" field="DateTime_Out" size="10" type="Date" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Text to date format</AnnotationText>
+          <DefaultAnnotationText>DateTime_Out = DateTimeParse([RegExOut1],'%d-%b-%Y') +
+DateTimeParse([RegExOut1]...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="82">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="606" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RegExOut1" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="83">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="726" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_10872_fc1367cfba2e45f7b638d8f8f88c3382_\Engine_6624_f6176cb2fbcb458a80443ab04781a144_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="92">
+      <GuiSettings>
+        <Position x="834" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Output Checker.yxmc" />
+    </Node>
+    <Node ToolID="91">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="66.00002" y="486" width="781" height="233" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Solution</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="84">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+            <Position x="91.00002" y="530.0001" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <NumRows value="17" />
+              <Fields>
+                <Field name="Field_1" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>He who sleeps on the floor will not fall off the bed.Robert Gronock16-APR-2005This is a valid record.</c>
+                </r>
+                <r>
+                  <c>After all is said and done, more is said than doneAnonymous09-JAN-1856Oops! The RandomInt field is missing.  This record should be rejected into a bad file.</c>
+                </r>
+                <r>
+                  <c>I want to see you shoot the way you shoutTeddy Roosevelt Nov 16, 1900This record is valid but the date is in MMMbDD,bYYYY format.</c>
+                </r>
+                <r>
+                  <c>get someone else to do it.15-APR-1944This record is valid but has a carriage return in the middle of the quote.</c>
+                </r>
+                <r>
+                  <c>Why do they call it rush hour when nothing moves?Mork27-JUN-70This record is valid but has only a two-year date.</c>
+                </r>
+                <r>
+                  <c>I'm taking the Ryanair approach to it: subcontracting everythingMichael O'Leary23-MAY-2011This record is valid and has a single quote in the two text fields.</c>
+                </r>
+                <r>
+                  <c>I Xeroxed a mirror.  Now I have an extra Xerox machine."Steven Wright30-JUN-06This record is valid but has a trailing double quote that should be part fo the text field.</c>
+                </r>
+                <r>
+                  <c>Freidrich Engels01-AUG-08This record is missing the first field, the quote.  This record should be rejected in a bad file.</c>
+                </r>
+                <r>
+                  <c>'He's so old his social security number is two digits.'Brian Morgan Jan 5 2000This record is valid but the quote is surrounded by single quotes, the date is an unconventional format and the integer has a fractional part.</c>
+                </r>
+                <r>
+                  <c>"I was the best man at the wedding.So why is she marrying him?"Jerry Seinfeld09-July-2001This record is valid but has a carriage return in the quote and the month is fully specified in the date.</c>
+                </r>
+                <r>
+                  <c>"When my wife was asked, "Do you take this man for richer or poorer..." she answered, "For richer!""Anonymous21-May-07This record is valid.</c>
+                </r>
+                <r>
+                  <c>"These are the continuing voyagesTo boldly split infinitives"Gene Roddenberry16-SEP-69This record is valid but contains the record separator within quotes.</c>
+                </r>
+                <r>
+                  <c>"The best cure for insomnia is to get a lot of sleep.W.C.Fields4-SEP-00The quote field has a beginning but not a trailing double quote.  This record could be rejected.</c>
+                </r>
+                <r>
+                  <c>I don't even butter my bread; I consider that cooking.,Katherine Cebrian, 08-may-2003,This record uses commas instead of pipes as the field delimiter and can be rejected.</c>
+                </r>
+                <r>
+                  <c>It matters not whether you win or lose; what mattes is whether I win or lose.Darrin Weinberg21-MAR-2005This is a valid record but the integer starts off with a zero, which shouldn't be confused for an octal number.</c>
+                </r>
+                <r>
+                  <c>Smoking is one of the leading causes of statistics.Fletcher Knebel24-OCT-1989This record contains an invalid RandomInt.</c>
+                </r>
+                <r>
+                  <c>I tried to think but nothing happened!"Curly"'11-AUG-1935'This is a valid record but the fields are sometimes contained in quotes.</c>
+                </r>
+              </Data>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+        </Node>
+        <Node ToolID="85">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+            <Position x="175" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>Field_1</Field>
+              <RegExExpression value=".*(\d\d-[[:alpha:]][[:alpha:]][[:alpha:]]-\d+).* | .*(\u\l\l\s\d+,*\s\d\d+).* | .*(\d+-\u\l\l+-\d\d+).* | .*(\d-[[:alpha:]][[:alpha:]][[:alpha:]]-\d+).*" />
+              <CaseInsensitve value="False" />
+              <Method>ParseComplex</Method>
+              <Replace expression="">
+                <CopyUnmatched value="True" />
+              </Replace>
+              <ParseSimple>
+                <SplitToRows value="False" />
+                <RootName>Field_1</RootName>
+                <NumFields value="3" />
+                <ErrorHandling>Warn</ErrorHandling>
+              </ParseSimple>
+              <ParseComplex>
+                <Field field="RegExOut1" type="V_String" size="220" />
+                <Field field="RegExOut2" type="V_String" size="220" />
+                <Field field="RegExOut3" type="V_String" size="220" />
+                <Field field="RegExOut4" type="V_String" size="220" />
+              </ParseComplex>
+              <Match>
+                <Field>Field_1_Matched</Field>
+                <ErrorUnmatched value="False" />
+              </Match>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Parse out the date from the string</AnnotationText>
+              <DefaultAnnotationText>Parse:
+.*(\d\d-[[:alpha:]][[:alpha...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+        </Node>
+        <Node ToolID="86">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="763" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_10872_fc1367cfba2e45f7b638d8f8f88c3382_\Engine_6624_abb292babc664e41ac4634ff406aa82e_.yxdb</TempFile>
+              <Layout>
+                <View1>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="87">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="283" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="if isempty([RegExOut1]) then (trim(substring([RegExOut2],4,2))+&quot;-&quot;+ Left(uppercase([RegExOut2]),3)+&quot;-&quot;+right([RegExOut2],4)) else [RegExOut1] endif" field="RegExOut1" size="220" type="V_String" />
+                <FormulaField expression="if [RegExOut1]==&quot;--&quot; then [RegExOut3] else [RegExOut1] endif" field="RegExOut1" size="220" type="V_String" />
+                <FormulaField expression="if isempty([RegExOut1]) then [RegExOut4] else [RegExOut1] endif" field="RegExOut1" size="220" type="V_String" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Put parsed dates into DD-MMM-YY format all in one column</AnnotationText>
+              <DefaultAnnotationText>RegExOut1 = if isempty([RegExOut1]) then (trim(substring([RegExOut2],4,2))+"-"+ ...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="88">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+            <Position x="403" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>RegExOut1</Field>
+              <NumFields value="3" />
+              <ErrorHandling>Last</ErrorHandling>
+              <RootName>Date</RootName>
+              <Delimeters value="-" />
+              <Flags value="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Parse the new date field into day, month and year columns for standardization and clean up</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+        </Node>
+        <Node ToolID="89">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="523" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="padleft([Date1],2,&quot;0&quot;)" field="Date1" size="220" type="V_String" />
+                <FormulaField expression="Left(Titlecase([Date2]),3)" field="Date2" size="220" type="V_String" />
+                <FormulaField expression="if tonumber([Date3])&lt;15 then tostring(2000+tonumber([Date3])) elseif tonumber([Date3])&gt;=15 &amp;&amp; tonumber([Date3])&lt;1000 then tostring(1900+tonumber([Date3])) else [Date3] endif" field="Date3" size="220" type="V_String" />
+                <FormulaField expression="DateTimeParse(([Date1]+&quot;-&quot;+[Date2]+&quot;-&quot;+[Date3]),&quot;%d-%b-%Y&quot;)" field="DateTime_Out" size="10" type="Date" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Date time parse from the three standardized fields</AnnotationText>
+              <DefaultAnnotationText>Date1 = padleft([Date1],2,"0")
+Date2 = Left(Titlecase([Date2]),3)
+Date3 = if ton...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="90">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="643" y="530" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="RegExOut1" selected="False" />
+                <SelectField field="RegExOut2" selected="False" />
+                <SelectField field="RegExOut3" selected="False" />
+                <SelectField field="RegExOut4" selected="False" />
+                <SelectField field="Date1" selected="False" />
+                <SelectField field="Date2" selected="False" />
+                <SelectField field="Date3" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Remove unwanted fields</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="50" Connection="Output" />
+      <Destination ToolID="79" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="92" Connection="Input1" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="82" Connection="Output" />
+      <Destination ToolID="92" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="79" Connection="Output" />
+      <Destination ToolID="81" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="81" Connection="Output" />
+      <Destination ToolID="82" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="82" Connection="Output" />
+      <Destination ToolID="83" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="84" Connection="Output" />
+      <Destination ToolID="85" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="85" Connection="Output" />
+      <Destination ToolID="87" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="87" Connection="Output" />
+      <Destination ToolID="88" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="88" Connection="Output" />
+      <Destination ToolID="89" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="89" Connection="Output" />
+      <Destination ToolID="90" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="90" Connection="Output" />
+      <Destination ToolID="86" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>challenge_4 - Date Parsing</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

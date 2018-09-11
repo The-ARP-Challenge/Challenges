@@ -1,0 +1,1365 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.3">
+  <Nodes>
+    <Node ToolID="80">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="522" y="438" width="396" height="132" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Populate Drop down: Values need to be in the header!</Text>
+          <Font name="Segoe UI" size="9.75" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="714" y="174" width="216" height="108" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Output</Text>
+          <Font name="Lato" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="78" y="114" width="324" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Segoe UI" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="4" />
+          <BG_Image>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</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="474" y="130" width="300" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Weekly Challenge #5</Text>
+          <Font name="Lato" size="16.2" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="54" y="174" width="648" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text><![CDATA[A HR department has a defined hierarchy for job identification across the organization. Depending on the job, the position within the hierarchy can change.
+
+The goal is to create an analytical application that allows a HR rep to enter a position # (in this example, 33333) and return all records where the position is found within the hierarchy system.
+
+]]></Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="174" y="570" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="1" />
+          <Fields>
+            <Field name="Position Number" />
+          </Fields>
+          <Data>
+            <r>
+              <c>33333</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Position number you are searching for</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Position Number" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="63">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="174" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="19" />
+          <Fields>
+            <Field name="Level0" />
+            <Field name="Level1" />
+            <Field name="Level2" />
+            <Field name="Level3" />
+          </Fields>
+          <Data>
+            <r>
+              <c>123456</c>
+              <c />
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c>22222</c>
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c>22222</c>
+              <c>33333</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c>23333</c>
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c>23333</c>
+              <c>34444</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>111111</c>
+              <c>23333</c>
+              <c>35555</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>234444</c>
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>234444</c>
+              <c>366666</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>33333</c>
+              <c>36677</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>234444</c>
+              <c>37777</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c />
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>235555</c>
+              <c />
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>235555</c>
+              <c>388888</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>235555</c>
+              <c>399999</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>235555</c>
+              <c>399888</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>12222</c>
+              <c>235555</c>
+              <c>3998877</c>
+            </r>
+            <r>
+              <c>123456</c>
+              <c>33333</c>
+              <c>235555</c>
+              <c>388888</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Data set of position hierarchy</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Level0" source="TextInput:" type="Int32" />
+            <Field name="Level1" source="TextInput:" type="Int32" />
+            <Field name="Level2" source="TextInput:" type="Int32" />
+            <Field name="Level3" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="64">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="738" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="3" />
+          <Fields>
+            <Field name="Position Number" />
+            <Field name="Level0" />
+            <Field name="Level1" />
+            <Field name="Level2" />
+            <Field name="Level3" />
+          </Fields>
+          <Data>
+            <r>
+              <c>33333</c>
+              <c>123456</c>
+              <c>111111</c>
+              <c>22222</c>
+              <c>33333</c>
+            </r>
+            <r>
+              <c>33333</c>
+              <c>123456</c>
+              <c>12222</c>
+              <c>33333</c>
+              <c>36677</c>
+            </r>
+            <r>
+              <c>33333</c>
+              <c>123456</c>
+              <c>33333</c>
+              <c>235555</c>
+              <c>388888</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Position Number" source="TextInput:" type="Int32" />
+            <Field name="Level0" source="TextInput:" type="Int32" />
+            <Field name="Level1" source="TextInput:" type="Int32" />
+            <Field name="Level2" source="TextInput:" type="Int32" />
+            <Field name="Level3" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="834" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_5528_b5fa79b1830542269ad25dfb994bde92_\Engine_6624_d770312915db462f85f295d21811339a_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="66">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="1206" y="54" width="396" height="300" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Sample Interface</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+          <BG_Image>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plJ99T/94NPCqdKXjUJeD/H99tvvfMrf/6mfeNEbGusqpZTamApX83BNLy7uawrv5EsWj8LF5oXnfSJko58/74riRlGnQeLRA19/8HfP+H2lptdT/87Tpmej/fv3P/zww1+56Zaf+Ec/dfJr3thYXSml1IZVuLKX1/ipwpv5ksWjN77n8pCNnn72p77+9QeLTqdB4tENu+98zvlHlZpef/N/fvaa2eihhx76+te/fsMNX37qM05qrK6UUmrDKlzZy2v8VOH9fJniUfG/qj317C995aabsxDUTzxSG1YhHoUTNZx1RTbau3e1ykYhDLWrsbpSSqkNqy0Yjxr/q9p04pHasArxKJxyVTb6G0/5iQ988LLivtFTn/HLTzv1043llVJKHavaavHolltvK/5XtfM+/LE8/6xBPFIbViEexdnon7zl1h/43362+r5ReNxYXiml1LGqrRaPiv9V7Y3vubxIP2sSj9SGVYhHcTYKnR/+yV+94sqri+8bhcduICml1CapcGUPGSDEgxAwvve9733/+98vL/mpECSWIx6deuFlr77g8in/q1rDSPHoutD9WtJ5ziVHHyqWDg4ffdngfbXpK8SjOBuFeua7Hv2Bv//PQza6//77r7/+hh/4h/93tbBSSqljWOHKvnfv3n379oUwEDLG0sejoMg9Mxo8Hr31a1nnolub8eiiw0ffGi8zmTtUX23+euozToqzUVF/5zm/fsWVn7zvvvvuvffeH/mZ//SP3/SVeK5SSqljUuHKfuWVV+7evTskpBAPvve97+UX/KYQJMSjXu27R8+5ZmpwueToQ503fobqq+WpZ7z9wac8/RdCNtqzZ8+uXZ/6kX/++sYCSimlNr7Clf2CCy4ICWnv3r0hDIhH4pHa6PqhZ73sk1d/5jd/620vfsnL/8//957GXKWUUhtf4cq+srJy6aWX3nPPPSEPhOBRXvJTIUiIR73mjUcXHT563TXNZqih+mq56hlv+/oPP/vf/6PTb2j0lVJKHasKV/Y/+IM/uOSSS+6++27xaCPi0Vu/dvShW5vNUEP1lVJKKbXOEo82NB71fZl6qL5SSiml1l/i0cbFI9lIKaWUWooSjzYoHoVM4zM1pZRSailKPBo4HmW3dlLZrykKaamh+D/OhuorpZRSargSj8a5e6SUUkqppS3xSDxSSimlVFLikXiklFJKqaTE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</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="414" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="RecordID" />
+          </KeyFields>
+          <DataFields>
+            <Field field="RecordID" selected="False" />
+            <Field field="Level0" selected="True" />
+            <Field field="Level1" selected="True" />
+            <Field field="Level2" selected="True" />
+            <Field field="Level3" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Name" size="6" source="Transpose:" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="68">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="282" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType size="6">String</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Level0" source="TextInput:" type="Int32" />
+            <Field name="Level1" source="TextInput:" type="Int32" />
+            <Field name="Level2" source="TextInput:" type="Int32" />
+            <Field name="Level3" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="69">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="738" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Position Number" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Value" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <SelectFields>
+                <SelectField field="Right_RecordID" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="Position Number" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Position Number" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="Value" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="70">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="954" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="RecordID" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="RecordID" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_RecordID" selected="False" />
+                <SelectField field="Right_RecordID" selected="False" rename="Right_RecordID" />
+                <SelectField field="Right_Level0" selected="True" />
+                <SelectField field="Right_Level1" selected="True" />
+                <SelectField field="Right_Level2" selected="True" />
+                <SelectField field="Right_Level3" selected="True" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Left">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="RecordID" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Join">
+          <RecordInfo>
+            <Field name="Level0" source="TextInput:" type="Int32" />
+            <Field name="Level1" source="TextInput:" type="Int32" />
+            <Field name="Level2" source="TextInput:" type="Int32" />
+            <Field name="Level3" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Right">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Level0" source="TextInput:" type="Int32" />
+            <Field name="Level1" source="TextInput:" type="Int32" />
+            <Field name="Level2" source="TextInput:" type="Int32" />
+            <Field name="Level3" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo noProgress="True">
+            <Field field="RecordID" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.DropDownListBox.DropDown">
+        <Position x="174" y="378" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="74">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+        <Position x="174" y="474" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="2">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="75">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="630" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="Value" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Unique: Value</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Unique">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Name" size="6" source="Transpose:" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Value" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Duplicates">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Name" size="6" source="Transpose:" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Value" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="76">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="510" y="630" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Field>Value</Field>
+            <Operator>IsNotNull</Operator>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([Value])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Name" size="6" source="Transpose:" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="RecordID" size="6" source="RecordID: Starting Value=1" type="String" />
+            <Field name="Name" size="6" source="Transpose:" type="String" />
+            <Field name="Value" source="TextInput:" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="78">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="738" y="474" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields />
+          <HeaderField field="Value" />
+          <DataField field="Name" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="12222" size="2048" source="CrossTab:Header:Value:12222:Concat:" type="V_String" />
+            <Field name="22222" size="2048" source="CrossTab:Header:Value:22222:Concat:" type="V_String" />
+            <Field name="23333" size="2048" source="CrossTab:Header:Value:23333:Concat:" type="V_String" />
+            <Field name="33333" size="2048" source="CrossTab:Header:Value:33333:Concat:" type="V_String" />
+            <Field name="34444" size="2048" source="CrossTab:Header:Value:34444:Concat:" type="V_String" />
+            <Field name="35555" size="2048" source="CrossTab:Header:Value:35555:Concat:" type="V_String" />
+            <Field name="36677" size="2048" source="CrossTab:Header:Value:36677:Concat:" type="V_String" />
+            <Field name="37777" size="2048" source="CrossTab:Header:Value:37777:Concat:" type="V_String" />
+            <Field name="111111" size="2048" source="CrossTab:Header:Value:111111:Concat:" type="V_String" />
+            <Field name="123456" size="2048" source="CrossTab:Header:Value:123456:Concat:" type="V_String" />
+            <Field name="234444" size="2048" source="CrossTab:Header:Value:234444:Concat:" type="V_String" />
+            <Field name="235555" size="2048" source="CrossTab:Header:Value:235555:Concat:" type="V_String" />
+            <Field name="366666" size="2048" source="CrossTab:Header:Value:366666:Concat:" type="V_String" />
+            <Field name="388888" size="2048" source="CrossTab:Header:Value:388888:Concat:" type="V_String" />
+            <Field name="399888" size="2048" source="CrossTab:Header:Value:399888:Concat:" type="V_String" />
+            <Field name="399999" size="2048" source="CrossTab:Header:Value:399999:Concat:" type="V_String" />
+            <Field name="3998877" size="2048" source="CrossTab:Header:Value:3998877:Concat:" type="V_String" />
+          </RecordInfo>
+          <SortInfo>
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="82">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerTable.PortfolioComposerTable">
+        <Position x="1038" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TableMode>Basic</TableMode>
+          <GroupingFields orderChanged="False" />
+          <Width>100%</Width>
+          <ShowHeader value="True" />
+          <ShowBarGraph value="False" />
+          <TableFields orderChanged="False">
+            <Field name="Level0" selected="True" Alignment="Right" />
+            <Field name="Level1" selected="True" Alignment="Right" />
+            <Field name="Level2" selected="True" Alignment="Right" />
+            <Field name="Level3" selected="True" Alignment="Right" />
+            <Field name="*Unknown" selected="True" Alignment="Right" />
+          </TableFields>
+          <TableStyles>
+            <Style Name="Data" Font="Arial" Size="8" TextColor="#000000" BackColor="#ffffff" AltColor="#f0f0f0" RowGroup="1" />
+            <Style Name="Header" Font="Arial" Size="10" TextColor="#000000" BackColor="#dbdbdb" />
+            <Style Name="Borders" Width="1" DataColor="#000000" HeaderColor="#000000" RowBorder="None" BasicColBorder="Default (Use Per Column Setting)" />
+            <Style Name="Table" CellPadding="0" ColumnPadding="0" TableBorder="true" Width="1" BorderColor="#000000" />
+          </TableStyles>
+          <StyleRules />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Basic Table</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Table" size="2147483647" source="Report:Table:Basic:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerTablePlugin" />
+    </Node>
+    <Node ToolID="84">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerRender.PortfolioComposerRender">
+        <Position x="1122" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFileType>pdf</TempFileType>
+          <BatchMode value="False" />
+          <DataField>Table</DataField>
+          <Separator>Continuous</Separator>
+          <ShowHeader value="False" />
+          <ShowFooter value="False" />
+          <PortraitMode value="True" />
+          <PaperType Width="612" Height="792" Left="36" Right="36" Top="36" Bottom="36" />
+          <DefaultStyles>
+            <Style Name="TextStyle" FontName="Arial" FontSize="14" Justify="Left" ForeColor="#000000" Locale="1033" />
+          </DefaultStyles>
+          <PNGResolution>1</PNGResolution>
+          <PNGLargerAction>squeeze</PNGLargerAction>
+          <PNGLargerThanPageChoice>warning</PNGLargerThanPageChoice>
+          <PNGTransparentBG value="False" />
+          <PNGBackColor value="#ffffff" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerRenderPlugin" />
+    </Node>
+    <Node ToolID="92">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="138" y="870" width="649.0001" height="437" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Solution</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="85">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+            <Position x="163.0001" y="1130" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <NumRows value="1" />
+              <Fields>
+                <Field name="Position Number" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>3333</c>
+                </r>
+              </Data>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Position number you are searching for</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Position Number" source="TextInput:" type="Int16" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+        </Node>
+        <Node ToolID="86">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+            <Position x="331.0002" y="1010" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <NumRows value="19" />
+              <Fields>
+                <Field name="Level0" />
+                <Field name="Level1" />
+                <Field name="Level2" />
+                <Field name="Level3" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>123456</c>
+                  <c />
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c>22222</c>
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c>22222</c>
+                  <c>33333</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c>23333</c>
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c>23333</c>
+                  <c>34444</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>111111</c>
+                  <c>23333</c>
+                  <c>35555</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>234444</c>
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>234444</c>
+                  <c>366666</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>33333</c>
+                  <c>36677</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>234444</c>
+                  <c>37777</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c />
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>235555</c>
+                  <c />
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>235555</c>
+                  <c>388888</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>235555</c>
+                  <c>399999</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>235555</c>
+                  <c>399888</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>12222</c>
+                  <c>235555</c>
+                  <c>3998877</c>
+                </r>
+                <r>
+                  <c>123456</c>
+                  <c>33333</c>
+                  <c>235555</c>
+                  <c>388888</c>
+                </r>
+              </Data>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Data set of position hierarchy</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Level0" source="TextInput:" type="Int32" />
+                <Field name="Level1" source="TextInput:" type="Int32" />
+                <Field name="Level2" source="TextInput:" type="Int32" />
+                <Field name="Level3" source="TextInput:" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+        </Node>
+        <Node ToolID="87">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+            <Position x="439.0002" y="1118" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <CartesianMode>Error</CartesianMode>
+              <SelectConfiguration>
+                <Configuration outputConnection="Output">
+                  <OrderChanged value="True" />
+                  <SelectFields>
+                    <SelectField field="Source_Position Number" selected="True" />
+                    <SelectField field="Target_Level0" selected="True" />
+                    <SelectField field="Target_Level1" selected="True" />
+                    <SelectField field="Target_Level2" selected="True" />
+                    <SelectField field="Target_Level3" selected="True" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Append the position you are searching for to the position hierarchy data set</AnnotationText>
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Position Number" source="TextInput:" type="Int16" />
+                <Field name="Level0" source="TextInput:" type="Int32" />
+                <Field name="Level1" source="TextInput:" type="Int32" />
+                <Field name="Level2" source="TextInput:" type="Int32" />
+                <Field name="Level3" source="TextInput:" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+        </Node>
+        <Node ToolID="88">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="571.0001" y="1118" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>[Position Number]==[Level0] or
+[Position Number]==[Level1] or
+[Position Number]==[Level2] or
+[Position Number]==[Level3]</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Filter for only the records that include the position you searched for</AnnotationText>
+              <DefaultAnnotationText>[Position Number]==[Level0] or
+[Position Number]==[Level1] or...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field name="Position Number" source="TextInput:" type="Int16" />
+                <Field name="Level0" source="TextInput:" type="Int32" />
+                <Field name="Level1" source="TextInput:" type="Int32" />
+                <Field name="Level2" source="TextInput:" type="Int32" />
+                <Field name="Level3" source="TextInput:" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field name="Position Number" source="TextInput:" type="Int16" />
+                <Field name="Level0" source="TextInput:" type="Int32" />
+                <Field name="Level1" source="TextInput:" type="Int32" />
+                <Field name="Level2" source="TextInput:" type="Int32" />
+                <Field name="Level3" source="TextInput:" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="89">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="703.0001" y="1106" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_5528_b5fa79b1830542269ad25dfb994bde92_\Engine_6624_4a41b110f7194d3b9d93c389ac9fb4ce_.yxdb</TempFile>
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Table</DefaultTab>
+                  <Hints />
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="90">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Questions.DropDownListBox.DropDown">
+            <Position x="163" y="914" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="91">
+          <GuiSettings Plugin="AlteryxGuiToolkit.Action.Action">
+            <Position x="163" y="1022" width="59" height="59" />
+          </GuiSettings>
+          <Properties>
+            <Configuration />
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="69" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="76" Connection="True" />
+      <Destination ToolID="69" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="Output" />
+      <Destination ToolID="65" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Output" />
+      <Destination ToolID="76" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="67" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="70" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="69" Connection="Join" />
+      <Destination ToolID="70" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="70" Connection="Join" />
+      <Destination ToolID="82" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="73" Connection="Question" />
+      <Destination ToolID="74" Connection="Question" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="74" Connection="Action" />
+      <Destination ToolID="60" Connection="Action" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="75" Connection="Unique" />
+      <Destination ToolID="78" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="76" Connection="True" />
+      <Destination ToolID="75" Connection="Input" />
+    </Connection>
+    <Connection Wireless="True">
+      <Origin ToolID="78" Connection="Output" />
+      <Destination ToolID="73" Connection="Question Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="82" Connection="Output" />
+      <Destination ToolID="84" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="85" Connection="Output" />
+      <Destination ToolID="87" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="86" Connection="Output" />
+      <Destination ToolID="87" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="87" Connection="Output" />
+      <Destination ToolID="88" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="88" Connection="True" />
+      <Destination ToolID="89" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="90" Connection="Question" />
+      <Destination ToolID="91" Connection="Question" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="91" Connection="Action" />
+      <Destination ToolID="85" Connection="Action" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Drop Down (73)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Drop Down (90)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>challenge_5 - My First App</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions>
+        <NoCondition>
+          <Type>NoCondition</Type>
+          <Description>(Always Run)</Description>
+          <True>
+            <Action>
+              <Type>Dynamic</Type>
+              <Description />
+              <ToolId value="74" />
+              <Expression>{{INPUT}}</Expression>
+              <Destination>60/Data/r[1]/c[1]</Destination>
+              <Mapping>Update Cell</Mapping>
+              <Mode>Expression</Mode>
+              <DynamicConfiguration>row	1
+column	1</DynamicConfiguration>
+              <DefaultConfiguration value="True" />
+            </Action>
+            <Action>
+              <Type>Dynamic</Type>
+              <Description />
+              <ToolId value="91" />
+              <Expression>{{INPUT}}</Expression>
+              <Destination>85/Data/r[1]/c[1]</Destination>
+              <Mapping>Update Cell</Mapping>
+              <Mode>Expression</Mode>
+              <DynamicConfiguration>row	1
+column	1</DynamicConfiguration>
+              <DefaultConfiguration value="True" />
+            </Action>
+          </True>
+        </NoCondition>
+      </Actions>
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (72)</Name>
+          <ToolId value="72" />
+          <Questions>
+            <Question>
+              <Type>ListBox</Type>
+              <Description>Select Position</Description>
+              <Name>Drop Down (73)</Name>
+              <ToolId value="73" />
+              <Multiple value="False" />
+              <Default />
+              <Mode>Field</Mode>
+              <Field_ToolId value="78" />
+              <Field_ConnectionName />
+              <Field_Connection>Output</Field_Connection>
+              <Field_IsOutput value="True" />
+              <Field_IncludeNone value="False" />
+              <Field_FilterTypes>String,WString,V_String,V_WString</Field_FilterTypes>
+            </Question>
+            <Question>
+              <Type>ListBox</Type>
+              <Description>Please Select Position Number</Description>
+              <Name>Drop Down (90)</Name>
+              <ToolId value="90" />
+              <Multiple value="False" />
+              <Default />
+              <Mode>Manual</Mode>
+              <Manual_Values><![CDATA[12222
+22222
+23333
+33333
+34444
+35555
+36677
+37777
+111111
+123456
+234444
+235555
+366666
+388888
+399888
+399999
+3998877
+]]></Manual_Values>
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Wizard</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="0" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="65" Selected="False" />
+        <Tool ToolId="84" Selected="True" />
+        <Tool ToolId="89" Selected="False" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
