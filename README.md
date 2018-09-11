@@ -6,6 +6,7 @@ We hope to go through some of the solutions on Python Mondays.
 
 ## Challenges
 <details><summary>Alteryx Weekly Challenges</summary>
+  
 |Challenge Number|Challenge Name|Level of Difficulty|Main Subject|
 |--- |--- |--- |--- |
 |1|Challenge #1: Join to Range|Intermediate|Data Preparation|
@@ -109,6 +110,7 @@ We hope to go through some of the solutions on Python Mondays.
 |99|Challenge #99: SANTALYTICS 2017 - Part 3|Advanced|Data Analysis|
 |100|Challenge #100: Find Ned!|Advanced|Spatial|
 </details>
+
 
 The current members are:
 - Philip Mannering
