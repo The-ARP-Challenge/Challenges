@@ -122,7 +122,7 @@ We hope to go through some of the solutions on Python Mondays.
 
 
 The top 10 solvers are:
-** Create script that tallies up everyone's contribution and create table here! **
+_Create script that tallies up everyone's contribution and create table here!_
 
 
 ## Useful Links
