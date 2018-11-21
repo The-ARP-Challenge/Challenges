@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<AlteryxDocument yxmdVer="2018.2">
+<AlteryxDocument yxmdVer="2018.3">
   <Nodes>
     <Node ToolID="16">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
@@ -94,6 +94,34 @@ Hint: For Values that do not exist, set values to closest valid row.
           <Left value="False" />
         </Annotation>
       </Properties>
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="822" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_5b74a9909e9643de9c4bc80d0f722976_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
@@ -32971,7 +32999,7 @@ Hint: For Values that do not exist, set values to closest valid row.
     </Node>
     <Node ToolID="39">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-        <Position x="114" y="450" />
+        <Position x="78" y="306" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48048,7 +48076,7 @@ Hint: For Values that do not exist, set values to closest valid row.
     </Node>
     <Node ToolID="54">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-        <Position x="354" y="450" />
+        <Position x="282" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48083,7 +48111,7 @@ Hint: For Values that do not exist, set values to closest valid row.
     </Node>
     <Node ToolID="56">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-        <Position x="450" y="450" />
+        <Position x="402" y="450" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48107,13 +48135,13 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="57">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="582" y="390" />
+        <Position x="534" y="390" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <UpdateField value="False" />
           <UpdateField_Name>Value</UpdateField_Name>
-          <CreateField_Name>3 mo avg</CreateField_Name>
+          <CreateField_Name>Value2</CreateField_Name>
           <CreateField_Type>Double</CreateField_Type>
           <CreateField_Size>8</CreateField_Size>
           <OtherRows>Nearest</OtherRows>
@@ -48135,7 +48163,7 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="58">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="690" y="390" />
+        <Position x="642" y="390" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48146,7 +48174,7 @@ Month - Ascending</DefaultAnnotationText>
             <Field field="Month" />
           </GroupFields>
           <HeaderField field="Name" />
-          <DataField field="3 mo avg" />
+          <DataField field="Value2" />
           <Methods>
             <Method method="Sum" />
           </Methods>
@@ -48181,13 +48209,13 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="59">
       <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-        <Position x="582" y="510" />
+        <Position x="534" y="510" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <UpdateField value="False" />
           <UpdateField_Name>Value</UpdateField_Name>
-          <CreateField_Name>6 mo avg</CreateField_Name>
+          <CreateField_Name>Value2</CreateField_Name>
           <CreateField_Type>Double</CreateField_Type>
           <CreateField_Size>8</CreateField_Size>
           <OtherRows>Nearest</OtherRows>
@@ -48208,7 +48236,7 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="60">
       <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-        <Position x="690" y="510" />
+        <Position x="642" y="510" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48219,7 +48247,7 @@ Month - Ascending</DefaultAnnotationText>
             <Field field="Month" />
           </GroupFields>
           <HeaderField field="Name" />
-          <DataField field="6 mo avg" />
+          <DataField field="Value2" />
           <Methods>
             <Method method="Sum" />
           </Methods>
@@ -48254,7 +48282,7 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="62">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-        <Position x="798" y="390" />
+        <Position x="750" y="390" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48267,10 +48295,10 @@ Month - Ascending</DefaultAnnotationText>
             <Field name="u_IR" />
             <Field name="u_NonIR" />
             <Field name="*Unknown" />
-            <Field name="RecordID" selected="False" />
             <Field name="HP Category" selected="False" />
             <Field name="Year" selected="False" />
             <Field name="Month" selected="False" />
+            <Field name="RecordID" selected="False" />
           </Fields>
           <Expression />
           <AddPrefixSuffix>
@@ -48308,12 +48336,18 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="63">
       <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-        <Position x="798" y="510" />
+        <Position x="750" y="510" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <RenameMode>Add</RenameMode>
           <Fields orderChanged="False">
+            <Field name="d_CAGI" />
+            <Field name="d_IR" />
+            <Field name="d_NonIR" />
+            <Field name="u_CAGI" />
+            <Field name="u_IR" />
+            <Field name="u_NonIR" />
             <Field name="*Unknown" />
             <Field name="RecordID" selected="False" />
             <Field name="HP Category" selected="False" />
@@ -48356,20 +48390,26 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="96">
       <GuiSettings Plugin="AlteryxBasePluginsGui.JoinMultiple.JoinMultiple">
-        <Position x="966" y="450" />
+        <Position x="870" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <JoinByRecPos value="False" />
           <JoinFields>
-            <JoinInfo connection="3 mo avg">
-              <Field field="RecordID" />
+            <JoinInfo connection="#1">
+              <Field field="HP Category" />
+              <Field field="Year" />
+              <Field field="Month" />
             </JoinInfo>
-            <JoinInfo connection="6 mo avg">
-              <Field field="RecordID" />
+            <JoinInfo connection="#2">
+              <Field field="HP Category" />
+              <Field field="Year" />
+              <Field field="Month" />
             </JoinInfo>
-            <JoinInfo connection="original fields">
-              <Field field="RecordID" />
+            <JoinInfo connection="#3">
+              <Field field="HP Category" />
+              <Field field="Year" />
+              <Field field="Month" />
             </JoinInfo>
           </JoinFields>
           <CartesianMode>Error</CartesianMode>
@@ -48379,36 +48419,36 @@ Month - Ascending</DefaultAnnotationText>
               <OrderChanged value="True" />
               <CommaDecimal value="False" />
               <SelectFields>
-                <SelectField field="3 mo avg_RecordID" selected="False" rename="3 mo avg_RecordID" />
-                <SelectField field="3 mo avg_HP Category" selected="False" rename="3 mo avg_HP Category" />
-                <SelectField field="3 mo avg_Year" selected="False" rename="3 mo avg_Year" />
-                <SelectField field="3 mo avg_Month" selected="False" rename="3 mo avg_Month" />
-                <SelectField field="6 mo avg_RecordID" selected="False" rename="6 mo avg_RecordID" />
-                <SelectField field="6 mo avg_HP Category" selected="False" rename="6 mo avg_HP Category" />
-                <SelectField field="6 mo avg_Year" selected="False" rename="6 mo avg_Year" />
-                <SelectField field="6 mo avg_Month" selected="False" rename="6 mo avg_Month" />
-                <SelectField field="original fields_RecordID" selected="True" />
-                <SelectField field="original fields_HP Category" selected="True" />
-                <SelectField field="original fields_Year" selected="True" />
-                <SelectField field="original fields_Month" selected="True" />
-                <SelectField field="original fields_u.CAGI" selected="True" />
-                <SelectField field="original fields_d.CAGI" selected="True" />
-                <SelectField field="original fields_u.IR" selected="True" />
-                <SelectField field="original fields_d.IR" selected="True" />
-                <SelectField field="original fields_u.NonIR" selected="True" />
-                <SelectField field="original fields_d.NonIR" selected="True" />
-                <SelectField field="3 mo avg_r3mo_d_CAGI" selected="True" />
-                <SelectField field="3 mo avg_r3mo_d_IR" selected="True" />
-                <SelectField field="3 mo avg_r3mo_d_NonIR" selected="True" />
-                <SelectField field="3 mo avg_r3mo_u_CAGI" selected="True" />
-                <SelectField field="3 mo avg_r3mo_u_IR" selected="True" />
-                <SelectField field="3 mo avg_r3mo_u_NonIR" selected="True" />
-                <SelectField field="6 mo avg_r6mo_d_CAGI" selected="True" />
-                <SelectField field="6 mo avg_r6mo_d_IR" selected="True" />
-                <SelectField field="6 mo avg_r6mo_d_NonIR" selected="True" />
-                <SelectField field="6 mo avg_r6mo_u_CAGI" selected="True" />
-                <SelectField field="6 mo avg_r6mo_u_IR" selected="True" />
-                <SelectField field="6 mo avg_r6mo_u_NonIR" selected="True" />
+                <SelectField field="Input_#1_RecordID" selected="True" />
+                <SelectField field="Input_#1_HP Category" selected="True" />
+                <SelectField field="Input_#1_Year" selected="True" />
+                <SelectField field="Input_#1_Month" selected="True" />
+                <SelectField field="Input_#1_r3mo_d_CAGI" selected="True" />
+                <SelectField field="Input_#1_r3mo_d_IR" selected="True" />
+                <SelectField field="Input_#1_r3mo_d_NonIR" selected="True" />
+                <SelectField field="Input_#1_r3mo_u_CAGI" selected="True" />
+                <SelectField field="Input_#1_r3mo_u_IR" selected="True" />
+                <SelectField field="Input_#1_r3mo_u_NonIR" selected="True" />
+                <SelectField field="Input_#2_HP Category" selected="False" rename="Input_#2_HP Category" />
+                <SelectField field="Input_#2_Year" selected="False" rename="Input_#2_Year" />
+                <SelectField field="Input_#2_Month" selected="False" rename="Input_#2_Month" />
+                <SelectField field="Input_#2_RecordID" selected="False" rename="Input_#2_RecordID" />
+                <SelectField field="Input_#2_r6mo_d_CAGI" selected="True" />
+                <SelectField field="Input_#2_r6mo_d_IR" selected="True" />
+                <SelectField field="Input_#2_r6mo_d_NonIR" selected="True" />
+                <SelectField field="Input_#2_r6mo_u_CAGI" selected="True" />
+                <SelectField field="Input_#2_r6mo_u_IR" selected="True" />
+                <SelectField field="Input_#2_r6mo_u_NonIR" selected="True" />
+                <SelectField field="Input_#3_RecordID" selected="False" rename="Input_#3_RecordID" />
+                <SelectField field="Input_#3_HP Category" selected="False" rename="Input_#3_HP Category" />
+                <SelectField field="Input_#3_Year" selected="False" rename="Input_#3_Year" />
+                <SelectField field="Input_#3_Month" selected="False" rename="Input_#3_Month" />
+                <SelectField field="Input_#3_u.CAGI" selected="True" />
+                <SelectField field="Input_#3_d.CAGI" selected="True" />
+                <SelectField field="Input_#3_u.IR" selected="True" />
+                <SelectField field="Input_#3_d.IR" selected="True" />
+                <SelectField field="Input_#3_u.NonIR" selected="True" />
+                <SelectField field="Input_#3_d.NonIR" selected="True" />
                 <SelectField field="*Unknown" selected="True" />
               </SelectFields>
             </Configuration>
@@ -48424,7 +48464,7 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="97">
       <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-        <Position x="246" y="330" />
+        <Position x="222" y="306" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -48444,22 +48484,16 @@ Month - Ascending</DefaultAnnotationText>
     </Node>
     <Node ToolID="98">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="1086" y="450" />
+        <Position x="966" y="438" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_20028_c2cd1b353ddb4cdcb51a8aa8cd6fdb8b_\Engine_3988_62504ef8325148ce92268280ee86b3f5_.yxdb</TempFile>
-          <TempFileDataProfiling />
           <Layout>
-            <ViewMode>Single</ViewMode>
-            <ViewSize value="100" />
             <View1>
-              <DefaultTab>Profile</DefaultTab>
               <Hints>
                 <Table />
               </Hints>
             </View1>
-            <View2 />
           </Layout>
         </Configuration>
         <Annotation DisplayMode="0">
@@ -48470,90 +48504,16 @@ Month - Ascending</DefaultAnnotationText>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
     </Node>
-    <Node ToolID="99">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="810" y="162" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_20028_c2cd1b353ddb4cdcb51a8aa8cd6fdb8b_\Engine_3988_b1b1f2075b854b4f891b889d08ef0918_.yxdb</TempFile>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-    </Node>
-    <Node ToolID="100">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="810" y="270" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <File MaxRecords="" FileFormat="0">..\files\output.csv</File>
-          <Passwords />
-          <FormatSpecificOptions>
-            <LineEndStyle>CRLF</LineEndStyle>
-            <Delimeter>,</Delimeter>
-            <ForceQuotes>False</ForceQuotes>
-            <HeaderRow>True</HeaderRow>
-            <CodePage>28591</CodePage>
-            <WriteBOM>True</WriteBOM>
-          </FormatSpecificOptions>
-          <MultiFile value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>output.csv</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
-    </Node>
-    <Node ToolID="101">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-        <Position x="246" y="498" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <File MaxRecords="" FileFormat="0">..\files\input.csv</File>
-          <Passwords />
-          <FormatSpecificOptions>
-            <LineEndStyle>CRLF</LineEndStyle>
-            <Delimeter>,</Delimeter>
-            <ForceQuotes>False</ForceQuotes>
-            <HeaderRow>True</HeaderRow>
-            <CodePage>28591</CodePage>
-            <WriteBOM>True</WriteBOM>
-          </FormatSpecificOptions>
-          <MultiFile value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>input.csv</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-        <Dependencies>
-          <Implicit />
-        </Dependencies>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
-    </Node>
     <Node ToolID="94">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="114" y="630" width="112.7394" height="19" />
+        <Position x="54.00003" y="1038" width="1621" height="539" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Caption>Solution</Caption>
           <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
-          <Disabled value="True" />
-          <Folded value="True" />
+          <Disabled value="False" />
+          <Folded value="False" />
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
@@ -48564,7 +48524,7 @@ Month - Ascending</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="69">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="486.9998" y="674" width="228" height="108" />
+            <Position x="426.9998" y="1082" width="228" height="108" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -48584,7 +48544,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="70">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="139" y="674" width="216" height="108" />
+            <Position x="79.00003" y="1082" width="216" height="108" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -48604,11 +48564,11 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="71">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="630.9999" y="710" />
+            <Position x="570.9999" y="1118" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_17592_67f61580b17849c6868cc860687edc12_\Engine_3988_145d8a2384e7408bbfe30c56f7bdd382_.yxdb</TempFile>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_79d4f78ed11f443fabc69a2a31ccf08a_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -48632,11 +48592,11 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="72">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="271" y="710" />
+            <Position x="211" y="1118" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_17592_67f61580b17849c6868cc860687edc12_\Engine_3988_3dd4107b21fc44cc90c0998a53409e4a_.yxdb</TempFile>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_bd02ba928efa46b88c3d77536bc27ee7_.yxdb</TempFile>
               <Layout>
                 <ViewMode>Single</ViewMode>
                 <ViewSize value="100" />
@@ -48657,7 +48617,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="73">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="162.9999" y="710" />
+            <Position x="102.9999" y="1118" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -63734,7 +63694,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="74">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="522.9998" y="710" />
+            <Position x="462.9999" y="1118" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96608,7 +96568,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="75">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-            <Position x="1195" y="770" />
+            <Position x="1135" y="1178" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96654,7 +96614,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="76">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-            <Position x="1351" y="914" />
+            <Position x="1291" y="1322" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96700,7 +96660,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="77">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1555" y="782" />
+            <Position x="1495" y="1190" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -96738,7 +96698,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="78">
           <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-            <Position x="306.9998" y="890" />
+            <Position x="246.9998" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96758,7 +96718,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="79">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-            <Position x="402.9998" y="890" />
+            <Position x="342.9998" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96793,7 +96753,7 @@ Month - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="80">
           <GuiSettings>
-            <Position x="510.9998" y="890" />
+            <Position x="450.9998" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96814,12 +96774,22 @@ Month - Ascending</DefaultAnnotationText>
               <DefaultAnnotationText />
               <Left value="False" />
             </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="RecordID" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="Double" />
+                <Field name="HP Category" size="23" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="V_String" />
+                <Field name="Year" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="Double" />
+                <Field name="Month" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="Double" />
+                <Field name="Name" size="23" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="V_String" />
+                <Field name="Value" source="Formula: IF &#xA;REGEX_Match([_CurrentFieldName_], '.*(?:_Ind).*') &amp;&amp; IsNull([_CurrentField_]) THEN &#xA;  0 &#xA;ELSE &#xA;  [_CurrentField_] &#xA;ENDIF" type="Double" />
+              </RecordInfo>
+            </MetaInfo>
           </Properties>
           <EngineSettings Macro="Imputation_v2.yxmc" />
         </Node>
         <Node ToolID="81">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="606.9999" y="890" />
+            <Position x="546.9999" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96839,7 +96809,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="82">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="726.9998" y="890" />
+            <Position x="666.9999" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96866,7 +96836,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="83">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="726.9998" y="1010" />
+            <Position x="666.9999" y="1418" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96892,7 +96862,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="84">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="834.9996" y="890" />
+            <Position x="774.9999" y="1298" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96929,7 +96899,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="85">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="834.9999" y="1010" />
+            <Position x="774.9999" y="1418" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -96966,7 +96936,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="86">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-            <Position x="930.9997" y="1022" />
+            <Position x="870.9999" y="1430" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -97011,7 +96981,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="87">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
-            <Position x="930.9998" y="902" />
+            <Position x="870.9999" y="1310" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -97056,7 +97026,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="88">
           <GuiSettings Plugin="AlteryxBasePluginsGui.JoinMultiple.JoinMultiple">
-            <Position x="1159" y="902" />
+            <Position x="1099" y="1310" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -97077,7 +97047,6 @@ RecordID - Ascending</DefaultAnnotationText>
               <SelectConfiguration>
                 <Configuration outputConnection="Output">
                   <OrderChanged value="False" />
-                  <CommaDecimal value="False" />
                   <SelectFields>
                     <SelectField field="Input_#3_RecordID" selected="False" rename="Input_#3_RecordID" />
                     <SelectField field="Input_#2_RecordID" selected="False" rename="Input_#2_RecordID" />
@@ -97096,7 +97065,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="89">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1255" y="902" />
+            <Position x="1195" y="1310" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -97133,7 +97102,7 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="90">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1087" y="770" />
+            <Position x="1027" y="1178" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -97170,11 +97139,11 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="91">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1651" y="698" />
+            <Position x="1591" y="1106" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_17592_67f61580b17849c6868cc860687edc12_\Engine_3988_c1479792e8514c508c7cdb6853ac3f96_.yxdb</TempFile>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_dcb9fc9a7723446aba6230e82a51d0e6_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -97198,11 +97167,11 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="92">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1651" y="782" />
+            <Position x="1591" y="1190" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_17592_67f61580b17849c6868cc860687edc12_\Engine_3988_3d8f92f92c2f4f0ea0e094fcae40bc40_.yxdb</TempFile>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_29639881982b4bcb89a9aac4de3cd3eb_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -97226,11 +97195,11 @@ RecordID - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="93">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1651" y="866" />
+            <Position x="1591" y="1274" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_17592_67f61580b17849c6868cc860687edc12_\Engine_3988_8e12ed5519724f5e8f5529291f9a4946_.yxdb</TempFile>
+              <TempFile>C:\Users\Philip\AppData\Local\Temp\Engine_6892_0919d806b3e54debb6ad8c2ece08fe3c_\Engine_6624_bf5bdf477ba246a9b18995552ede73de_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -97258,19 +97227,11 @@ RecordID - Ascending</DefaultAnnotationText>
   <Connections>
     <Connection>
       <Origin ToolID="37" Connection="Output" />
-      <Destination ToolID="99" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="37" Connection="Output" />
-      <Destination ToolID="100" Connection="Input" />
+      <Destination ToolID="36" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="39" Connection="Output" />
       <Destination ToolID="97" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="39" Connection="Output" />
-      <Destination ToolID="101" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="54" Connection="Output" />
@@ -97300,15 +97261,15 @@ RecordID - Ascending</DefaultAnnotationText>
       <Origin ToolID="60" Connection="Output" />
       <Destination ToolID="63" Connection="Targets" />
     </Connection>
-    <Connection name="3 mo avg">
+    <Connection name="#1">
       <Origin ToolID="62" Connection="Output" />
       <Destination ToolID="96" Connection="Input" />
     </Connection>
-    <Connection name="6 mo avg">
+    <Connection name="#2">
       <Origin ToolID="63" Connection="Output" />
       <Destination ToolID="96" Connection="Input" />
     </Connection>
-    <Connection name="original fields">
+    <Connection name="#3">
       <Origin ToolID="97" Connection="Output" />
       <Destination ToolID="96" Connection="Input" />
     </Connection>
@@ -97435,7 +97396,7 @@ RecordID - Ascending</DefaultAnnotationText>
     <LayoutType>Horizontal</LayoutType>
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>Challenge-003-Running-Averages</Name>
+      <Name>challenge_3 - Rolling Month Averages</Name>
       <Description />
       <RootToolName />
       <ToolVersion />

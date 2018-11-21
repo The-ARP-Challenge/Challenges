@@ -18,11 +18,11 @@
 library(data.table)
 
 # Set the working directory
-setwd('~/ARP Weekly Challenge/Challenge-001-Join-to-Range/')
+setwd('~/GitHub/ARP/Challenge-001-Join-to-Range/P-Man/')
 
 # Load the data
-range = read.csv(file = './files/range.csv')
-customer = read.csv(file = './files/customer.csv')
+range = read.csv(file = '../files/range.csv')
+customer = read.csv(file = '../files/customer.csv')
 
 # Extract the postcode areas from the Range and convert to numbers
 r1 <- as.integer(substr(range$Range, 1, 4))

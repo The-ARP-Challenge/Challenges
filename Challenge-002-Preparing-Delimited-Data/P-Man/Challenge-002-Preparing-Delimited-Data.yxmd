@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<AlteryxDocument yxmdVer="2018.2">
+<AlteryxDocument yxmdVer="2018.3">
   <Nodes>
     <Node ToolID="16">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
@@ -175,7 +175,7 @@ Use Alteryx to strip out the delimiters as superfluous and format the data as re
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-        <Position x="222" y="366" />
+        <Position x="201" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -197,7 +197,7 @@ Use Alteryx to strip out the delimiters as superfluous and format the data as re
     </Node>
     <Node ToolID="40">
       <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="426" y="366" />
+        <Position x="423" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -224,7 +224,7 @@ Use Alteryx to strip out the delimiters as superfluous and format the data as re
     </Node>
     <Node ToolID="42">
       <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="534" y="366" />
+        <Position x="534" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -252,7 +252,7 @@ Use Alteryx to strip out the delimiters as superfluous and format the data as re
     </Node>
     <Node ToolID="43">
       <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-        <Position x="330" y="366" />
+        <Position x="312" y="258" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -271,265 +271,11 @@ Poem = Trim([Field...</DefaultAnnotationText>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
     </Node>
-    <Node ToolID="50">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
-        <Position x="222" y="258" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Field>Field_1</Field>
-          <RegExExpression value="[\w\s-]+" />
-          <CaseInsensitve value="True" />
-          <Method>ParseSimple</Method>
-          <Replace expression="">
-            <CopyUnmatched value="True" />
-          </Replace>
-          <ParseSimple>
-            <SplitToRows value="False" />
-            <RootName>Field_1</RootName>
-            <NumFields value="3" />
-            <ErrorHandling>Warn</ErrorHandling>
-          </ParseSimple>
-          <ParseComplex>
-            <Field field="No Marked Groups Found" type="No Marked Groups Found" size="No Marked Groups Found" />
-          </ParseComplex>
-          <Match>
-            <Field>Field_1_Matched</Field>
-            <ErrorUnmatched value="False" />
-          </Match>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>Tokenize:
-[\w\s-]+</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
-    </Node>
-    <Node ToolID="52">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-        <Position x="426" y="258" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <OrderChanged value="False" />
-          <CommaDecimal value="False" />
-          <SelectFields>
-            <SelectField field="Field_1" selected="False" />
-            <SelectField field="Field_11" selected="True" rename="Poem" />
-            <SelectField field="Field_12" selected="True" rename="Poem_ID" type="Int16" size="2" />
-            <SelectField field="Field_13" selected="False" type="Date" size="10" />
-            <SelectField field="DateTime_Out" selected="True" rename="Poem_Read_Date" />
-            <SelectField field="*Unknown" selected="True" />
-          </SelectFields>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
-    </Node>
-    <Node ToolID="53">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
-        <Position x="330" y="258" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <IsFrom value="False" />
-          <InputFieldName>Field_13</InputFieldName>
-          <Format>dd-Mon.-yy</Format>
-          <OutputFieldName>DateTime_Out</OutputFieldName>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText>Convert Field_13 From:
-dd-Mon.-yy</DefaultAnnotationText>
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
-    </Node>
-    <Node ToolID="54">
-      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-        <Position x="534" y="258" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_3128_0c28f9364f9846089e94f498f7524106_\Engine_18720_cf3eaea6425e4743b09de61504cd55d0_.yxdb</TempFile>
-          <TempFileDataProfiling />
-          <Layout>
-            <ViewMode>Single</ViewMode>
-            <ViewSize value="100" />
-            <View1>
-              <DefaultTab>Profile</DefaultTab>
-              <Hints>
-                <Table />
-              </Hints>
-            </View1>
-            <View2 />
-          </Layout>
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-    </Node>
-    <Node ToolID="60">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="114" y="485.9999" width="637" height="246.0001" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Caption>Solution</Caption>
-          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
-          <Disabled value="False" />
-          <Folded value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <ChildNodes>
-        <Node ToolID="55">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="139" y="529.9999" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <NumRows value="2" />
-              <Fields>
-                <Field name="Field_1" />
-              </Fields>
-              <Data>
-                <r>
-                  <c>"Mary had a little lamb whose fleece was white as snow",123,'16-JUN-01'</c>
-                </r>
-                <r>
-                  <c>"I do not like green eggs and ham",456,'25-DEC-10'</c>
-                </r>
-              </Data>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
-        </Node>
-        <Node ToolID="56">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-            <Position x="259" y="530.0004" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Field>Field_1</Field>
-              <NumFields value="3" />
-              <ErrorHandling>Last</ErrorHandling>
-              <RootName />
-              <Delimeters value="," />
-              <Flags value="0" />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Make columns by splitting the field at the comma delimiter</AnnotationText>
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
-        </Node>
-        <Node ToolID="57">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="667" y="530.0004" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <TempFile>C:\Users\phili\AppData\Local\Temp\Engine_3128_0c28f9364f9846089e94f498f7524106_\Engine_18720_cf4533bc78204dc4b6dae0dad83ee48e_.yxdb</TempFile>
-              <Layout>
-                <View1>
-                  <Hints>
-                    <Table />
-                  </Hints>
-                </View1>
-              </Layout>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-        </Node>
-        <Node ToolID="58">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="391" y="530.0004" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <FormulaFields>
-                <FormulaField expression="trim([1],'&quot;')" field="Poem" size="64" type="String" />
-                <FormulaField expression="DateTimeParse(trim([3],&quot;'&quot;),&quot;%d-%b-%y&quot;)" field="Poem_Read_Date" size="10" type="Date" />
-              </FormulaFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Strip double quotes and assign field 1 to POEM, strip single quotes, parse to date time and assign field 3 to Poem_Read_Date.</AnnotationText>
-              <DefaultAnnotationText><![CDATA[Poem = trim([1],'"')
-Poem_Read_Date = DateTimeParse(trim([3],"'"),"%d-%b-%y")
-]]></DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
-        </Node>
-        <Node ToolID="59">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="523" y="530.0004" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <OrderChanged value="True" />
-              <CommaDecimal value="False" />
-              <SelectFields>
-                <SelectField field="Field_1" selected="False" />
-                <SelectField field="Poem" selected="True" />
-                <SelectField field="1" selected="False" />
-                <SelectField field="2" selected="True" rename="Poem_ID" type="Int16" size="2" />
-                <SelectField field="3" selected="False" />
-                <SelectField field="Poem_Read_Date" selected="True" />
-                <SelectField field="*Unknown" selected="True" />
-              </SelectFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Rename field [2] as Poem_ID, change type to INT16 and remove unwanted fields</AnnotationText>
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
-        </Node>
-      </ChildNodes>
-    </Node>
   </Nodes>
   <Connections>
     <Connection>
       <Origin ToolID="32" Connection="Output" />
       <Destination ToolID="37" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="32" Connection="Output" />
-      <Destination ToolID="50" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="34" Connection="Output" />
@@ -546,34 +292,6 @@ Poem_Read_Date = DateTimeParse(trim([3],"'"),"%d-%b-%y")
     <Connection>
       <Origin ToolID="43" Connection="Output" />
       <Destination ToolID="40" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="50" Connection="Output" />
-      <Destination ToolID="53" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="52" Connection="Output" />
-      <Destination ToolID="54" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="53" Connection="Output" />
-      <Destination ToolID="52" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="55" Connection="Output" />
-      <Destination ToolID="56" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="56" Connection="Output" />
-      <Destination ToolID="58" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="58" Connection="Output" />
-      <Destination ToolID="59" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="59" Connection="Output" />
-      <Destination ToolID="57" Connection="Input" />
     </Connection>
   </Connections>
   <Properties>
