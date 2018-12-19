@@ -1,0 +1,50 @@
+Airport City,REP,TripOrder
+"Hartford-West Hartford-East Hartford, CT Metro",Cathy,1
+"Indianapolis-Carmel-Anderson, IN Metro",Cathy,2
+"Springfield, MA Metro",Cathy,3
+"Reno, NV Metro",Cathy,4
+"Cleveland-Elyria, OH Metro",Cathy,5
+"Knoxville, TN Metro",Cathy,6
+"Madison, WI Metro",Cathy,7
+"Phoenix-Mesa-Scottsdale, AZ Metro",Dan,1
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro",Dan,2
+"Lexington-Fayette, KY Metro",Dan,3
+"Jackson, MS Metro",Dan,4
+"Albuquerque, NM Metro",Dan,5
+"Pittsburgh, PA Metro",Dan,6
+"Burlington-South Burlington, VT Metro",Dan,7
+"Los Angeles-Long Beach-Anaheim, CA Metro",Diana,1
+"Boise City, ID Metro",Diana,2
+"Bangor, ME Metro",Diana,3
+"Billings, MT Metro",Diana,4
+"Durham-Chapel Hill, NC Metro",Diana,5
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro",Diana,6
+"Seattle-Tacoma-Bellevue, WA Metro",Diana,7
+"Tuscaloosa, AL Metro",James,1
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro",James,2
+"Topeka, KS Metro",James,3
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro",James,4
+"Atlantic City-Hammonton, NJ Metro",James,5
+"Eugene, OR Metro",James,6
+"Salt Lake City, UT Metro",James,7
+"Fayetteville-Springdale-Rogers, AR-MO Metro",Mark,1
+"Atlanta-Sandy Springs-Roswell, GA Metro",Mark,2
+"New Orleans-Metairie, LA Metro",Mark,3
+"Columbia, MO Metro",Mark,4
+"Rochester, NY Metro",Mark,5
+"Providence-Warwick, RI-MA Metro",Mark,6
+"Richmond, VA Metro",Mark,7
+"Denver-Aurora-Lakewood, CO Metro",Scott,1
+"Chicago-Naperville-Elgin, IL-IN-WI Metro",Scott,2
+"Baltimore-Columbia-Towson, MD Metro",Scott,3
+"Lincoln, NE Metro",Scott,4
+"Fargo, ND-MN Metro",Scott,5
+"Sioux Falls, SD Metro",Scott,6
+"Morgantown, WV Metro",Scott,7
+"Dover, DE Metro",Steve,1
+"Cedar Rapids, IA Metro",Steve,2
+"Detroit-Warren-Dearborn, MI Metro",Steve,3
+"Manchester-Nashua, NH Metro",Steve,4
+"Oklahoma City, OK Metro",Steve,5
+"Dallas-Fort Worth-Arlington, TX Metro",Steve,6
+"Cheyenne, WY Metro",Steve,7
